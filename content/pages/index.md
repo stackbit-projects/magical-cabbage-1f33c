@@ -63,7 +63,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
   - type: features_section
-    title: Features Section
+    title: Alles was dein Verein braucht
     subtitle: Alles für deinen Verein aus einer Hand
     features:
       - title: The Big Title For the Feature
