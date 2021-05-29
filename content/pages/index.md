@@ -81,6 +81,13 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        content: >
+          Die innovative Oberfläche hilft dabei, alte Denkmuster aufzubrechen
+          und bringt frischen Wind.
+
+
+          Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und
+          Beitragsverwaltung steht an erster Stelle.
       - title: Mitgliedsanträge und andere Prozesse abbilden
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
