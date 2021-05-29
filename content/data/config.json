@@ -14,7 +14,7 @@
             {
                 "label": "Vereinsverwaltung",
                 "url": "/features",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Formulare",
