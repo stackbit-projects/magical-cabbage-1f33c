@@ -64,7 +64,7 @@ sections:
     has_border: true
   - type: features_section
     title: Alles was dein Verein braucht
-    subtitle: Alles für deinen Verein aus einer Hand
+    subtitle: 'Verwalten, Formulare und mehr'
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
