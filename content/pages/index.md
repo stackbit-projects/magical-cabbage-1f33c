@@ -38,8 +38,7 @@ sections:
         subtitle: 9000+ Mitglieder
         title_align: center
         image: /images/SC-Paderborn-07.svg
-      - image: /images/rostock_seawolves_600x400 1.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
         title: Rostock Seawolves
         subtitle: 1700+ Mitglieder
