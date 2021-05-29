@@ -10,7 +10,7 @@ export default class FeaturesSection extends React.Component {
         const sectionTitle = _.get(section, 'title');
         const title = _.get(feature, 'title');
         const subtitle = _.get(feature, 'subtitle');
-        const content = _.get(feature, 'content');
+        const content = 'sdgsdg'//_.get(feature, 'content');
         const image = _.get(feature, 'image');
         const imageAlt = _.get(feature, 'image_alt', '');
         const videoEmbed = _.get(feature, 'video_embed_html');
