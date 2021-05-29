@@ -194,19 +194,19 @@
 		.navbar__menu {
 			a:not(.btn) {
 				&:after {
-					bottom: -6px;
-					height: 2px;
-					left: 0;
+					bottom: -12px;
+					height: 12px;
+					left: -4;
 					opacity: 0;
-					right: 0;
+					right: -4;
 				}
 			}
 
 			a:not(.btn):hover,
 			.is-active a {
 				&:after {
-					bottom: -2px;
-					opacity: 1;
+					bottom: 0px;
+					opacity: 0.5;
 				}
 			}
 		}
