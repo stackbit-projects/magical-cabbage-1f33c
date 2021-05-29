@@ -46,6 +46,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         title: Rostock Seawolves
+        subtitle: Basketball Verein
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
