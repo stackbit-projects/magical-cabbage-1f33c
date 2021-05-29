@@ -64,7 +64,7 @@ sections:
     has_border: true
   - type: features_section
     title: Features Section
-    subtitle: Alles für den Verein aus einer Hand
+    subtitle: Alles für deinen Verein aus einer Hand
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
