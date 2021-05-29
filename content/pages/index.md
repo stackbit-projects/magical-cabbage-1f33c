@@ -33,7 +33,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         title: Alba Berlin
-        subtitle: Basketball
+        subtitle: Basketball Verein
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
