@@ -70,10 +70,6 @@ sections:
         subtitle: >-
           Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
           ein maximales Vergnügen.
-        content: >
-          Intuitives Arbeiten helfen alte Denkmuster aufzubrechen und schaffen
-          frischen Wind. Zeit sparen bei der Mitgliederverwaltung, Buchhaltung
-          und Beitragsverwaltung steht an erster Stelle.
         actions:
           - label: Zur Verwaltung
             url: /style-guide
