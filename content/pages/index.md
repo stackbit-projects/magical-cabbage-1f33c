@@ -45,6 +45,7 @@ sections:
       - image: /images/rostock_seawolves_600x400 1.svg
         image_alt: Gatsby logo
         image_align: center
+        title: Rostock Seawolves
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
