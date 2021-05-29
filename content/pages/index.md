@@ -307,6 +307,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
+    has_border: true
   - type: blog_feed_section
     title: Neues und Interessantes
     actions:
