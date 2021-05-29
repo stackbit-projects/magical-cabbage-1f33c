@@ -66,7 +66,7 @@ sections:
     title: Alles was dein Verein braucht
     subtitle: 'Verwalten, Formulare und mehr'
     features:
-      - title: Verwalten mit Leichtigkeit
+      - title: Vereinsverwaltung mit Leichtigkeit
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
