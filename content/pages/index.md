@@ -40,6 +40,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         title: SC Paderborn 07
+        subtitle: Fußball Verein
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
