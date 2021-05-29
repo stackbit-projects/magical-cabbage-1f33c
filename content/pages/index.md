@@ -45,8 +45,7 @@ sections:
         image_align: center
       - image_alt: Next.js logo
         image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
+      - image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
         image_alt: Git logo
