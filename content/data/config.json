@@ -55,7 +55,8 @@
                 "url": "/pricing",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/royal-olive.svg"
     },
     "footer": {
         "logo": "/images/icon.svg",
