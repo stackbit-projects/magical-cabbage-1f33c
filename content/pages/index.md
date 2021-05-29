@@ -21,6 +21,8 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    content: |2
+       
   - type: grid_section
     title: Unsere Kunden
     subtitle: Vereine sind überzeugt
