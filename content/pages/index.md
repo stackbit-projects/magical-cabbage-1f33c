@@ -35,7 +35,7 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         title: SC Paderborn 07
-        subtitle: Fußball Verein
+        subtitle: 9000+ Mitglieder
         title_align: center
         image: /images/SC-Paderborn-07.svg
       - image: /images/rostock_seawolves_600x400 1.svg
