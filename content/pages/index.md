@@ -25,8 +25,7 @@ sections:
     subtitle: Vereine sind überzeugt
     align: center
     grid_items:
-      - image: /images/Alba-Berlin.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
         title: Alba Berlin
         subtitle: Basketball Verein
