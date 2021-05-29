@@ -67,7 +67,9 @@ sections:
     subtitle: 'Verwalten, Formulare und mehr'
     features:
       - title: Vereinsverwaltung mit Leichtigkeit
-        subtitle: "Modernes Design und angenehmes Handling sorgen für ein maximales Vergnügen und\_helfen dabei, alte Denkmuster aufzubrechen. Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und Beitragsverwaltung steht an erster Stelle."
+        subtitle: >-
+          Modernes Design und angenehmes Handling sorgen für ein maximales
+          Vergnügen.
         actions:
           - label: Zur Verwaltung
             url: /style-guide
