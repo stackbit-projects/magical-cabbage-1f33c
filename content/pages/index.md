@@ -68,10 +68,11 @@ sections:
     features:
       - title: Verwalten mit Leichtigkeit
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
+          ein maximales Vergnügen auch bei der Verwaltungsarbeit. Intuitives
+          Arbeiten helfen alte Denkmuster aufzubrechen und schaffen frischen
+          Wind. Zeit sparen steht an erster Stelle.
         actions:
           - label: Learn More
             url: /style-guide
