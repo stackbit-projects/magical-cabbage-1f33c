@@ -126,7 +126,8 @@
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "center",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "YouTube",
