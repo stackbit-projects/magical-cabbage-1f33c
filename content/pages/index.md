@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Vereinssoftware die deine Zeit spart!
-    subtitle: >-
-      Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge
-      online und vieles mehr für deinen Verein.
+    subtitle: "Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge,\_ Mitglieder-App und vieles mehr für deinen Verein."
     actions:
       - label: Kostenlos testen
         url: /pricing
