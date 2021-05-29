@@ -13,7 +13,7 @@ sections:
       - label: Kostenlos testen
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Mehr erfahren
         url: /features
         style: secondary
     image: images/classic/hero.png
