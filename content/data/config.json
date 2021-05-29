@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Über uns",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
