@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Vereinssoftware ohne Kompromisse
-    subtitle: 'Mitglieder, Buchhaltung, Formulare, App'
+    subtitle: >-
+      Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge
+      online und vieles mehr aus einer Hand
     content: >
       Einfache Cloudsoftware mit umfassenden Möglichkeiten für kleine & große
       Vereine, aus allen Vereinsbereichen!
