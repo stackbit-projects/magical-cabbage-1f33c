@@ -29,7 +29,7 @@ sections:
     subtitle: Vereine sind überzeugt
     align: center
     grid_items:
-      - image: /images/alba-berlin-logo.svg
+      - image: /images/wonderful-mars.svg
         image_alt: Contentful logo
         image_align: center
         title: Alba Berlin
