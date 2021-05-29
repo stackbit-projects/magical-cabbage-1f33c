@@ -36,7 +36,7 @@ sections:
         subtitle: Basketball Verein
         image_width: twenty-five
         title_align: center
-      - image: images/logo-2.svg
+      - image: /images/SC_Paderborn_07_Logo_new.svg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
