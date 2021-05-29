@@ -69,7 +69,7 @@ sections:
       - title: Vereinsverwaltung mit Leichtigkeit
         subtitle: >-
           Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
-          ein maximales Vergnügen
+          ein maximales Vergnügen.
         content: >
           Intuitives Arbeiten helfen alte Denkmuster aufzubrechen und schaffen
           frischen Wind. Zeit sparen steht an erster Stelle.
