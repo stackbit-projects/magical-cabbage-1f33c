@@ -53,6 +53,7 @@ sections:
         image_align: center
         title: Deutscher Forstverein
         subtitle: 7000+ Mitglieder
+        title_align: center
       - image_alt: DatoCMS logo
         image_align: center
       - image_alt: Next.js logo
