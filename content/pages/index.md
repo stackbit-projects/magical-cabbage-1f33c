@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Unsere Kunden
     subtitle: Vereine sind überzeugt
     align: center
     grid_items:
