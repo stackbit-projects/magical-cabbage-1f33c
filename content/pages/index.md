@@ -72,7 +72,8 @@ sections:
           ein maximales Vergnügen.
         content: >
           Intuitives Arbeiten helfen alte Denkmuster aufzubrechen und schaffen
-          frischen Wind. Zeit sparen steht an erster Stelle.
+          frischen Wind. Zeit sparen bei der Mitgliederverwaltung, Buchhaltung
+          und Beitragsverwaltung steht an erster Stelle.
         actions:
           - label: Zur Verwaltung
             url: /style-guide
