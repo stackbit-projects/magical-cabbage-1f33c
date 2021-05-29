@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Vereinssoftware ohne Kompromisse
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Einfache Cloudsoftware mit umfassenden Möglichkeiten für kleine & große
+      Vereine, aus allen Vereinsbereichen!
     actions:
       - label: Try Free
         url: /pricing
