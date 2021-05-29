@@ -303,7 +303,7 @@ sections:
   - type: blog_feed_section
     title: Neues und Interessantes
     actions:
-      - label: View All
+      - label: Alle ansehen im Blog
         url: /blog
         style: primary
     blog_feed_cols: three
