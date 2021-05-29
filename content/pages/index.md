@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Kostenlos testen
         url: /pricing
-        style: primary
+        style: secondary
       - label: Mehr erfahren
         url: /features
         style: secondary
