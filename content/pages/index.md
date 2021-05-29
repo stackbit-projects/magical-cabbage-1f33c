@@ -43,6 +43,7 @@ sections:
         title: Rostock Seawolves
         subtitle: 1700+ Mitglieder
         title_align: center
+        image: /images/Rostock-Seawolves.svg
       - image: /images/Deutscher-Forstverein.svg
         image_alt: Sanity logo
         image_align: center
