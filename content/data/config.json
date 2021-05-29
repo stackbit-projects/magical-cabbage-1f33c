@@ -36,7 +36,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
+                "label": "Kontakt",
                 "url": "/contact",
                 "style": "link"
             },
