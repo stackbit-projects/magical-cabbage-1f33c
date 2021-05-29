@@ -301,7 +301,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Neugikeiten
+    title: Neues und Interessantes
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
