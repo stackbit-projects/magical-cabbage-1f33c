@@ -42,7 +42,7 @@ sections:
         image_alt: Gatsby logo
         image_align: center
         title: Rostock Seawolves
-        subtitle: Basketball Verein
+        subtitle: 1700+ Mitglieder
         title_align: center
       - image: /images/Deutscher-Forstverein.svg
         image_alt: Sanity logo
