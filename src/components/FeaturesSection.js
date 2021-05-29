@@ -73,7 +73,7 @@ export default class FeaturesSection extends React.Component {
                                     : <h2 className="feature__title h2">{title}</h2>
                             )}
                             {subtitle && <p className="feature__subtitle">{subtitle}</p>}
-                            <div className="feature__copy">sdgsdgdsg</div>
+                            {content && <div className="feature__copy">{markdownify(content)}</div>}
                             {!_.isEmpty(actions) && (
                                 <div
                                     className={classNames('feature__actions', 'btn-group', {
