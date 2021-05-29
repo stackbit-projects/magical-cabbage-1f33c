@@ -44,8 +44,7 @@ sections:
         subtitle: 1700+ Mitglieder
         title_align: center
         image: /images/Rostock-Seawolves.svg
-      - image: /images/Deutscher-Forstverein.svg
-        image_alt: Sanity logo
+      - image_alt: Sanity logo
         image_align: center
         title: Deutscher Forstverein
         subtitle: 7000+ Mitglieder
