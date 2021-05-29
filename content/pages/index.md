@@ -34,7 +34,7 @@ sections:
         image_align: center
         title: Alba Berlin
         subtitle: Basketball Verein
-        image_width: sixty
+        image_width: twenty-five
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
