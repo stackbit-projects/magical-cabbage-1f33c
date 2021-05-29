@@ -28,7 +28,7 @@ sections:
       - image_alt: Contentful logo
         image_align: center
         title: Alba Berlin
-        subtitle: Basketball Verein
+        subtitle: 2000+ Mitglieder
         image_width: twenty-five
         title_align: center
         image: /images/groovy-maple.svg
