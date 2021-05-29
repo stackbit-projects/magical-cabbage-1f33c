@@ -10,7 +10,7 @@ sections:
         style: secondary
       - label: Mehr erfahren
         url: /features
-        style: secondary
+        style: primary
     image: /images/landing-hero.svg
     image_alt: Hero section placeholder image
     media_position: left
