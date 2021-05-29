@@ -55,7 +55,8 @@
                 "url": "/pricing",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/marvelous-cedar.svg"
     },
     "footer": {
         "logo": "/images/icon.svg",
