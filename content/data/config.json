@@ -166,5 +166,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://magical-cabbage-1f33c.netlify.app"
+    "domain": "https://magical-cabbage-1f33c.netlify.app",
+    "favicon": "/images/favicon.png"
 }
