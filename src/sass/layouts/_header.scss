@@ -192,6 +192,10 @@
 
 	@include media-breakpoint-up(md) {
 		.navbar__menu {
+            a {
+                font-weight: 700;
+            }
+            
 			a:not(.btn) {
 				&:after {
 					bottom: -12px;
