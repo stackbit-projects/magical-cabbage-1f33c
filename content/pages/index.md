@@ -51,6 +51,7 @@ sections:
       - image: /images/Deutscher-Forstverein.svg
         image_alt: Sanity logo
         image_align: center
+        title: Deutscher Forstverein
       - image_alt: DatoCMS logo
         image_align: center
       - image_alt: Next.js logo
