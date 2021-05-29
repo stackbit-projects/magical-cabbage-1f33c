@@ -67,7 +67,9 @@ sections:
     subtitle: 'Verwalten, Formulare und mehr'
     features:
       - title: Vereinsverwaltung mit Leichtigkeit
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
+          ein maximales Vergnügen
         content: >
           Intuitives Arbeiten helfen alte Denkmuster aufzubrechen und schaffen
           frischen Wind. Zeit sparen steht an erster Stelle.
