@@ -37,6 +37,7 @@ sections:
         title: SC Paderborn 07
         subtitle: Fußball Verein
         title_align: center
+        image: /images/SC-Paderborn-07.svg
       - image: /images/rostock_seawolves_600x400 1.svg
         image_alt: Gatsby logo
         image_align: center
