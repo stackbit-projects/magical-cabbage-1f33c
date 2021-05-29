@@ -74,7 +74,7 @@ sections:
           Arbeiten helfen alte Denkmuster aufzubrechen und schaffen frischen
           Wind. Zeit sparen steht an erster Stelle.
         actions:
-          - label: Learn More
+          - label: Zur Verwaltung
             url: /style-guide
             style: primary
             has_icon: true
