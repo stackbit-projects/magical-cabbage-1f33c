@@ -5,7 +5,7 @@ sections:
     title: Vereinssoftware die deine Zeit spart!
     subtitle: >-
       Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge
-      online und vieles mehr aus einer Hand
+      online und vieles mehr aus einer Hand.
     content: >
       Einfache Cloudsoftware mit umfassenden Möglichkeiten für kleine & große
       Vereine, aus allen Vereinsbereichen!
