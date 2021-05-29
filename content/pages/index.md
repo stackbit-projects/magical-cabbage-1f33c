@@ -77,7 +77,7 @@ sections:
         actions:
           - label: Zur Verwaltung
             url: /style-guide
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
