@@ -199,6 +199,7 @@
 					left: -4;
 					opacity: 0;
 					right: -4;
+                    z-index: -1;
 				}
 			}
 
@@ -206,7 +207,7 @@
 			.is-active a {
 				&:after {
 					bottom: 0px;
-					opacity: 0.5;
+					opacity: 0.38;
 				}
 			}
 		}
