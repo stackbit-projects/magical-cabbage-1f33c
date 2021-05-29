@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     content: |
       \-
   - type: grid_section
