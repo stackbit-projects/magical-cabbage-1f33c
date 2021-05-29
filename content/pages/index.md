@@ -32,8 +32,7 @@ sections:
         image_width: twenty-five
         title_align: center
         image: /images/groovy-maple.svg
-      - image: /images/SC_Paderborn_07_Logo_new.svg
-        image_alt: Netlify logo
+      - image_alt: Netlify logo
         image_align: center
         title: SC Paderborn 07
         subtitle: Fußball Verein
