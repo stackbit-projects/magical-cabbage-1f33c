@@ -69,10 +69,8 @@ sections:
       - title: Vereinsverwaltung mit Leichtigkeit
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
-          Modernes Design und angenehmes Handling für jeden Benutzer sorgen für
-          ein maximales Vergnügen auch bei der Verwaltungsarbeit. Intuitives
-          Arbeiten helfen alte Denkmuster aufzubrechen und schaffen frischen
-          Wind. Zeit sparen steht an erster Stelle.
+          Intuitives Arbeiten helfen alte Denkmuster aufzubrechen und schaffen
+          frischen Wind. Zeit sparen steht an erster Stelle.
         actions:
           - label: Zur Verwaltung
             url: /style-guide
