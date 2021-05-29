@@ -10,7 +10,7 @@ sections:
       Einfache Cloudsoftware mit umfassenden Möglichkeiten für kleine & große
       Vereine, aus allen Vereinsbereichen!
     actions:
-      - label: Try Free
+      - label: Kostenlos testen
         url: /pricing
         style: primary
       - label: Learn More
