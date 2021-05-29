@@ -23,6 +23,7 @@ sections:
     background_color: primary
     content: |
       \-
+    has_border: true
   - type: grid_section
     title: Unsere Kunden
     subtitle: Vereine sind überzeugt
