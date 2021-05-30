@@ -210,7 +210,7 @@ sections:
     background_color: none
     has_border: true
   - type: grid_section
-    title: Reviews Section
+    title: Kunden Feedbacks
     subtitle: Warum du dabei sein solltest!
     grid_items:
       - content: >
