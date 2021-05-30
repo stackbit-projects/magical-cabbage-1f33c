@@ -17,7 +17,18 @@ export default class MyDocument extends Document {
 
     // should render on <body>
     get helmetBodyAttrComponents() {
-        return this.props.helmet.bodyAttributes.toComponent();
+        return (
+            <>
+                {this.props.helmet.bodyAttributes.toComponent()}
+                <script data-cfasync="false" id="49db5f4c2a9c51c64a7c097a06ca4adc-1" type="nitropack/inlinescript" class="nitropack-inline-script">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3QRQDP');//]]>
+</script>
+            </>
+        )
     }
 
     // should render on <head>
