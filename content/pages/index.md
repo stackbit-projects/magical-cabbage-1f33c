@@ -233,12 +233,20 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Man merkt Campai ONE an, dass dahinter nicht nur Entwickler stehen,
+          die für Vereine brennen, sondern es auch geschafft wurde, uns, die
+          Kunden, zu einer Community zu formen, die mit Wünschen,
+          Verbesserungsvorschlägen, Kritik und Bereitschaft zum Testen die
+          Software zu dem macht was es ist: Eine Software die bei
+          Mitgliederverwaltung, Kommunikation und Buchhaltung eigentlich keine
+          Wünsche offen lässt. Wenn doch, sind die Entwickler bemüht diese
+          schnellstmöglich zu erfüllen. Das besondere neben den Features, die
+          laufend neu hinzukommen, ist auch die elegante und einfache Bedienung
+          die ihresgleichen sucht.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Oliver Haas,** Shaolin Tempel Steyr
         image: /images/Profil Oliver.png
         image_alt: Miles Tone
         image_position: left
