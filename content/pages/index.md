@@ -5,7 +5,7 @@ sections:
     title: Vereinssoftware die deine Zeit spart!
     subtitle: "Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge,\_ Mitglieder-App und vieles mehr für deinen Verein."
     actions:
-      - label: Kostenlos testen
+      - label: JETZT STARTEN
         url: /pricing
         style: secondary
       - label: Mehr erfahren
