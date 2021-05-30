@@ -279,10 +279,8 @@ sections:
     has_border: true
   - type: cta_section
     title: Starte JETZT und spare viel
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      EINFACH | ZUVERLÄSSIG | SCHNELL 
     actions:
       - label: Learn More
         url: /features
