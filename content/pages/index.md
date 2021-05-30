@@ -213,12 +213,36 @@ sections:
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Bereits seit 2019 nutzen wir Campai, dadurch wurden viele
+          Arbeitsabläufe vereinfacht. (OnlineMitgliedsAntrag, autom.
+          Beitragseinzug uvm.). Wir waren von Anfang an in die Entwicklung der
+          neuen Version Campai ONE dabei und können bestätigen das dies eine
+          weiterer enormer Schritt in die Digitalisierung im Vereinswesen ist.
+          Die Version ONE ist mit und für die Anwender programmiert worden.
+          Übersichtlich, einfach zu Verstehen und absolut funktionabel übernimmt
+          Campai ONE Prozesse im Vereinsleben, die eine enorme Zeitersparnis
+          bringen. Automatisierte Rechnungs-, Beitrags- und Vertragswesen,
+          völlig frei verwendbare Felder, um jegliche Vereinsanforderungen
+          umzusetzen. Die Buchhaltung ist Datev konform und kann so einfach für
+          Vereine genutzt werden.
+
+          Es muss auch die Anbindung an die hauseigene ChatApp Chapster genannt
+          werden. Die automatisierte Synchronisation von Campai zu Chapster in
+          die richtigen „Channels“ macht die Kommunikation und Gruppenverwaltung
+          wirklich einfach und dabei ist Chapster DSGVO-konform.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+
+
+          Ein riesiges Kompliment auch an das gesamte Entwickler- und
+          Supportteam. Die Anforderungen der Anwender werden schnell und
+          kompetent umgesetzt und dies auf direktem Weg. Der Service ist top!
+          Wir setzten weiterhin auf Campai ONE und freuen uns auf eine
+          langjährige Partnerschaft.
+
+
+          **Dirk Schuster,** *1. Vorstand *FG Illesheim 1993 e. V.
         image: /images/NW campai Profil 2.png
         image_alt: Hanson Deck
         image_position: left
