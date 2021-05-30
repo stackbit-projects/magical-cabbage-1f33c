@@ -20,7 +20,7 @@ export default class MyDocument extends Document {
         return (
             <>
                 {this.props.helmet.bodyAttributes.toComponent()}
-                <script data-cfasync="false" id="49db5f4c2a9c51c64a7c097a06ca4adc-1" type="nitropack/inlinescript" class="nitropack-inline-script">//<![CDATA[
+                <script>
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
