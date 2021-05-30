@@ -278,7 +278,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Starte JETZT und spare viel
+    title: Starte JETZT und spare viel Zeit bei der Vereinsarbeit!
     content: |
       EINFACH | ZUVERLÄSSIG | SCHNELL 
     actions:
