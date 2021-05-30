@@ -211,7 +211,7 @@ sections:
     has_border: true
   - type: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
+    subtitle: Warum du dabei sein solltest!
     grid_items:
       - content: >
           Bereits seit 2019 nutzen wir Campai, dadurch wurden viele
