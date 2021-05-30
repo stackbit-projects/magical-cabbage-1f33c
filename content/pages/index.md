@@ -5,7 +5,7 @@ sections:
     title: Vereinssoftware die deine Zeit spart!
     subtitle: "Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge,\_ Mitglieder-App und vieles mehr für deinen Verein."
     actions:
-      - label: Kostenlos testen
+      - label: JETZT STARTEN
         url: /pricing
         style: secondary
       - label: Mehr erfahren
@@ -210,26 +210,44 @@ sections:
     background_color: none
     has_border: true
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Kunden Feedbacks
+    subtitle: Warum du dabei sein solltest!
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Bereits seit 2019 nutzen wir Campai, dadurch wurden viele
+          Arbeitsabläufe vereinfacht. (OnlineMitgliedsAntrag, autom.
+          Beitragseinzug uvm.). Übersichtlich, einfach zu Verstehen und absolut
+          funktionabel übernimmt Campai ONE Prozesse im Vereinsleben, die eine
+          enorme Zeitersparnis bringen. 
 
 
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+          Ein riesiges Kompliment auch an das gesamte Entwickler- und
+          Supportteam. Die Anforderungen der Anwender werden schnell und
+          kompetent umgesetzt und dies auf direktem Weg. Der Service ist top!
+          Wir setzten weiterhin auf Campai ONE und freuen uns auf eine
+          langjährige Partnerschaft.
+
+
+          **Dirk Schuster,** \*1. Vorstand \*FG Illesheim 1993 e. V.
+        image: /images/NW campai Profil 2.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Man merkt Campai ONE an, dass dahinter nicht nur Entwickler stehen,
+          die für Vereine brennen, sondern es auch geschafft wurde, uns, die
+          Kunden, zu einer Community zu formen, die mit Wünschen,
+          Verbesserungsvorschlägen, Kritik und Bereitschaft zum Testen die
+          Software zu dem macht was es ist: Eine Software die bei
+          Mitgliederverwaltung, Kommunikation und Buchhaltung eigentlich keine
+          Wünsche offen lässt. Wenn doch, sind die Entwickler bemüht diese
+          schnellstmöglich zu erfüllen. Das besondere neben den Features, die
+          laufend neu hinzukommen, ist auch die elegante und einfache Bedienung
+          die ihresgleichen sucht.
 
 
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+          **Oliver Haas,** Shaolin Tempel Steyr
+        image: /images/Profil Oliver.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
@@ -260,13 +278,11 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: Starte JETZT und spare viel Zeit bei der Vereinsarbeit!
+    content: |
+      EINFACH | ZUVERLÄSSIG | SCHNELL 
     actions:
-      - label: Learn More
+      - label: JETZT STARTEN
         url: /features
         style: secondary
     actions_position: right
