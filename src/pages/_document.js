@@ -46,10 +46,10 @@ export default class MyDocument extends Document {
                     <script src={withPrefix('js/plugins.js')} />
                     <NextScript />
                     <script
-    dangerouslySetInnerHTML={{
-        __html: gaCode
-    }}
-/>
+                        dangerouslySetInnerHTML={{
+                            __html: gaCode
+                        }}
+                    />
                 </body>
             </Html>
         );
