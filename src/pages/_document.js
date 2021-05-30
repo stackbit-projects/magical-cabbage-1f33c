@@ -45,6 +45,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
                     <NextScript />
+                    <script
+    dangerouslySetInnerHTML={{
+        __html: gaCode
+    }}
+/>
                 </body>
             </Html>
         );
