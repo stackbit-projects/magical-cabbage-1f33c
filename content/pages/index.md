@@ -282,7 +282,7 @@ sections:
     content: |
       EINFACH | ZUVERLÄSSIG | SCHNELL 
     actions:
-      - label: Learn More
+      - label: JETZT STARTEN
         url: /features
         style: secondary
     actions_position: right
