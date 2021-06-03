@@ -15,9 +15,8 @@ sections:
     grid_items:
       - title: Partnerschaft und Sposoring
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Du möchtest mit uns Win-Win Situationen schaffen.
         content_align: center
         actions:
           - label: Get Support
