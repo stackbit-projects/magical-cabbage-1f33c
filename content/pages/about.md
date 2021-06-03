@@ -30,7 +30,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Von Vereinsmenschen für Vereinsmenschen!
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Wir arbeiten für dich!
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
