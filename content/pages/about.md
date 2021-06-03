@@ -70,7 +70,7 @@ sections:
     content: |
       Spare dir in Zukunft viel Zeit bei der Vereinsarbeit.
     actions:
-      - label: Compare Plans
+      - label: Preisplan aussuchen
         url: /pricing
         style: primary
     align: center
