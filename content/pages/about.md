@@ -45,11 +45,11 @@ sections:
       - title: Support
         content: |
           Schönhauser Allee 163
-          \</br>
+          \<br/>
           10435 Berlin
-          \</br>
+          \<br/>
           Telefon: +49 30 403 639 730
-          \</br>
+          \<br/>
           Mail: support@luckyshot.io
         content_align: left
         actions:
