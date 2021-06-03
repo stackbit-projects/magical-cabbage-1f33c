@@ -52,6 +52,10 @@ sections:
         image: /images/terrific-mint.svg
       - image_alt: DatoCMS logo
         image_align: center
+        title: Vereinigung der Sternenfreunde
+        subtitle: 4000+ Mitglieder
+        image: /images/image001.png
+        title_align: center
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
@@ -89,12 +93,16 @@ sections:
           Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und
           Beitragsverwaltung steht an erster Stelle.
       - title: Mitgliedsanträge und andere Prozesse abbilden
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Digitalisiere deine Anträge, Formulare und Abfragen und verschaffe dir
+          schnell einen Gesamtüberblick.
+
+
+          Erstelle individuelle Vorlagen, Abhängigkeiten und importiere bei
+          Bedarf alles in deine Vereinsverwaltung. Das spart Ressourcen, Zeit
+          und schon die Umwelt!
         actions:
-          - label: Learn More
+          - label: Zu den Formularen
             url: /style-guide
             style: primary
             has_icon: true
@@ -104,14 +112,21 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Eine einfache App für alle Mitglieder
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        subtitle: >-
+          Erstelle deine Formuler, Abfragen und Umfragen nach deinen
+          Vorstellungen
+      - title: Eine APP für Verein und Mitglieder
+        subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
+        content: >
+          Verschaffe dir einen Vorteil indem du deine Mitglieder über den
+          Vereinsmessenger erreichst. 
+
+
+          Erleichtere dir die Arbeit, durch ein integriertes online
+          Mitgliederportal, um Vereinsangebote zu präsentieren oder
+          Adressänderungen selber durchführen zu lassen. 
         actions:
-          - label: Learn More
+          - label: Zur Mitgliederapp
             url: /style-guide
             style: primary
             has_icon: true
@@ -130,7 +145,7 @@ sections:
       - title: >-
           “Stackbit is fast! Themes are always up to date. It’s easy to use
           across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Leiterin Mitgliederwesen, SC Paderborn 07'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
@@ -139,15 +154,15 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: Unser Ansatz
+    subtitle: Wie wir deine Vereinsarbeit unterstützen!
     grid_items:
-      - title: Section Item 1
+      - title: Zuverlässig
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Unser System ist auf dem mordernsten Stand und wird regelmäßig
+          weiterentwickelt. Du kannst uneingeschränkt und 24/7 darauf zugreifen,
+          um deine Vereinsarbeit effizient und schnell zu erledigen.
         content_align: left
         actions:
           - label: Learn More
@@ -162,12 +177,12 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Einfach
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
+          mit wenigen Klicks dein Ziel erreichst und viel Zeit sparen kannst.
+          Dabei ist uns die Optik und die Handhabung sehr wichtig!
         content_align: left
         actions:
           - label: Learn More
@@ -182,12 +197,12 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Schnell
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Vereinszeit ist besondere Zeit und sollte wenig mit der Verwaltung zu
+          tun haben. Wir möchten, dass du mit unserer Software wieder mehr Zeit
+          für die wichtigen Vereinsaufgaben hast. 
         content_align: left
         actions:
           - label: Learn More
@@ -293,8 +308,8 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
+    title: campai Team
+    subtitle: Von Menschen für Menschen
     actions:
       - label: Join the team
         url: /style-guide
@@ -325,7 +340,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: blog_feed_section
-    title: Neues und Interessantes
+    title: Wissenswertes für deinen Verein
     actions:
       - label: Alle ansehen im Blog
         url: /blog
@@ -345,13 +360,12 @@ sections:
     has_border: true
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: STARTE JETZT ZEIT ZU SPAREN!
+    content: >
+      Die Vereinsverwaltung die dir in Zukunft wieder mehr Zeit für die
+      wichtigen Vereinsaufgaben verschafft!
     actions:
-      - label: Button
+      - label: 'Ja, ich bin dabei!'
         url: /pricing
         style: primary
     actions_position: bottom
