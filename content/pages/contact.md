@@ -56,7 +56,7 @@ sections:
           hören gerne zu!
         content_align: center
         actions:
-          - label: 'Spezielle Anfrage '
+          - label: Spezielle Anfrage senden
             url: /general-enquiries
             style: primary
             has_icon: true
