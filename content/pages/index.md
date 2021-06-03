@@ -50,7 +50,7 @@ sections:
         subtitle: 7000+ Mitglieder
         title_align: center
         image: /images/terrific-mint.svg
-      - title: lorem-ipsum
+      - title: Vereinigung der Sternenfreunde
         subtitle: lorem-ipsum
         title_align: left
         content: >-
