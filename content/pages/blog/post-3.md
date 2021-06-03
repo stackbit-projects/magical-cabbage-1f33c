@@ -1,5 +1,5 @@
 ---
-title: 'Wie du mehr Geld über '
+title: Wie du mehr Geld durch Digitalisierung gewinnst!
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
