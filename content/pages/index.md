@@ -155,7 +155,7 @@ sections:
     has_border: true
   - type: grid_section
     title: Cards Grid Section
-    subtitle: Grid Section Example
+    subtitle: Wie wir für dich da einsetzen
     grid_items:
       - title: Section Item 1
         title_align: left
