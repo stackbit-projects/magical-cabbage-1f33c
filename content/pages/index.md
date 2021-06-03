@@ -51,7 +51,7 @@ sections:
         title_align: center
         image: /images/terrific-mint.svg
       - title: Vereinigung der Sternenfreunde
-        subtitle: lorem-ipsum
+        subtitle: 4000+ Mitglieder
         title_align: left
         content: >-
           ## Lorem ipsum
