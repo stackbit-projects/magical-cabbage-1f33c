@@ -33,9 +33,8 @@ sections:
         image_has_padding: true
       - title: Hilfe & Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Du hast Fragen und du benötigst unsere Hilfe? Dann schreibe uns!
         content_align: center
         actions:
           - label: Get Support
