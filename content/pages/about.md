@@ -67,7 +67,8 @@ sections:
     background_color: none
   - type: cta_section
     title: FANG JETZT AN!
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Spare dir in Zukunft viel Zeit bei der Vereinsarbeit.
     actions:
       - label: Compare Plans
         url: /pricing
