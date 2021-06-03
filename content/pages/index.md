@@ -321,7 +321,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Beiträge erstellen
-        subtitle: Software Engineer
+        subtitle: 'komplizierte Beitragsstrukturen 1:1 abbilden'
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
