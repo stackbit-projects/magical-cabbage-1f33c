@@ -308,7 +308,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Team Section
+    title: campai Team
     subtitle: Von Menschen für Menschen
     actions:
       - label: Join the team
