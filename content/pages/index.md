@@ -115,7 +115,7 @@ sections:
         subtitle: >-
           Erstelle deine Formuler, Abfragen und Umfragen nach deinen
           Vorstellungen
-      - title: 'Präsentiere deinen Verein und spreche alle Mitglieder '
+      - title: Präsentiere deinen Verein und spreche alle Mitglieder direkt an!
         subtitle: Interaktion den Verein und seine
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
