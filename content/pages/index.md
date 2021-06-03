@@ -326,7 +326,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Newsletter versenden
-        subtitle: Developer Advocate
+        subtitle: Ansprechende Mailings für mehr Klicks
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
