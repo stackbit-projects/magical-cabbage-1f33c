@@ -1,5 +1,5 @@
 ---
-title: 'Richtige Kommunikation deinen Vereinsziele '
+title: Richtige Kommunikation für deinen Vereinserfolg
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
