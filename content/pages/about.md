@@ -20,10 +20,11 @@ sections:
         media_width: fifty
       - title: 100 % Leidenschaft
         subtitle: 'Einfach Lösungen schaffen, die effizient sind!'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Vereinsarbeit bedeutet oft Kompromisse einzugehen! Mit der
+          Vereinsverwaltung soll es das nicht geben. Du bekommst einen absoluten
+          Luxuswagen zum smarten Preis, um effizient dein Vereinsleben zu
+          genießen!
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
