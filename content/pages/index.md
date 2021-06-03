@@ -117,10 +117,14 @@ sections:
           Vorstellungen
       - title: Eine APP für Verein und Mitglieder
         subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Verschaffe dir einen Vorteil indem du deine Mitglieder über den
+          Vereinsmessenger erreichst. 
+
+
+          Erleichtere dir die Arbeit, durch ein integriertes online
+          Mitgliederportal, um Vereinsangebote zu präsentieren oder
+          Adressänderungen selber durchführen zu lassen. 
         actions:
           - label: Learn More
             url: /style-guide
