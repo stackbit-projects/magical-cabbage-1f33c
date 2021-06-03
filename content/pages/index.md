@@ -331,7 +331,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
       - title: Online Mitgliedsantrag
-        subtitle: Operations Manager
+        subtitle: Familienanträge einfach ausfüllen
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
