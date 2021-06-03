@@ -43,10 +43,14 @@ sections:
     title: So erreichst du uns
     grid_items:
       - title: Support
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: |
+          Schönhauser Allee 163
+          10435 Berlin
+          \<br>
+          Telefon: +49 30 403 639 730
+          \<br>
+          Mail: support@luckyshot.io
+          \<br>
         content_align: left
         actions:
           - label: Get Directions
