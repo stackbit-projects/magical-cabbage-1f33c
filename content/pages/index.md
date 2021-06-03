@@ -116,7 +116,7 @@ sections:
           Erstelle deine Formuler, Abfragen und Umfragen nach deinen
           Vorstellungen
       - title: Eine einfache App für alle Mitglieder
-        subtitle: Für den Verein und für seine
+        subtitle: Für den Verein und seine
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
