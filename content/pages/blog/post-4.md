@@ -1,5 +1,5 @@
 ---
-title: Warum Vereinsdigitalisierung der Schlüssel ist
+title: Warum Vereinsdigitalisierung Erfolg bringt!
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
