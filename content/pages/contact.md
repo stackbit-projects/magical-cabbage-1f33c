@@ -49,7 +49,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
+      - title: Weiter gedacht!
         title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
