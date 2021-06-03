@@ -126,7 +126,7 @@ sections:
           Mitgliederportal, um Vereinsangebote zu präsentieren oder
           Adressänderungen selber durchführen zu lassen. 
         actions:
-          - label: Learn More
+          - label: Zur Mitgliederapp
             url: /style-guide
             style: primary
             has_icon: true
