@@ -157,7 +157,7 @@ sections:
     title: Unser Ansatz
     subtitle: Wie wir deine Vereinsarbeit unterstützen!
     grid_items:
-      - title: Einfach einfach!
+      - title: Zuverlässig
         title_align: left
         content: >
           Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
