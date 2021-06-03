@@ -199,10 +199,10 @@ sections:
         image_has_padding: true
       - title: Schnell
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Vereinszeit ist besondere Zeit und sollte wenig mit der Verwaltung zu
+          tun haben. Wir möchten, dass du mit unserer Software wieder mehr Zeit
+          für die wichtigen Vereinsaufgaben hast. 
         content_align: left
         actions:
           - label: Learn More
