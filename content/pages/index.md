@@ -118,7 +118,7 @@ sections:
       - title: >-
           Präsentiere deinen Verein und spreche alle Mitglieder & Interessenten
           direkt an!
-        subtitle: 'Vereinsangebote präsentieren, '
+        subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
