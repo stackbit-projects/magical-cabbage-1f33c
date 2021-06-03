@@ -95,9 +95,12 @@ sections:
       - title: Mitgliedsanträge und andere Prozesse abbilden
         content: >
           Digitalisiere deine Anträge, Formulare und Abfragen und verschaffe dir
-          schnell einen Gesamtüberblick. 
+          schnell einen Gesamtüberblick.
 
-           felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
+
+          Erstelle individuelle Vorlagen, Abhängigkeiten und importiere bei
+          Bedarf alles in deine Vereinsverwaltung. Das spart Ressourcen, Zeit
+          und schon die Umwelt!
         actions:
           - label: Learn More
             url: /style-guide
