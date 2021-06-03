@@ -53,6 +53,7 @@ sections:
       - image_alt: DatoCMS logo
         image_align: center
         title: Vereinigung der Sternenfreunde
+        subtitle: 4000+ Mitglieder
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
