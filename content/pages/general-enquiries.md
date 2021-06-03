@@ -45,7 +45,7 @@ sections:
         default_value: Bitte wähle aus
         options:
           - Fehler auf der Seite
-          - Sponsorship
+          - Spon
           - Other
       - input_type: textarea
         name: message
