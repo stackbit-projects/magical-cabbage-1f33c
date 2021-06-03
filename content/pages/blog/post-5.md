@@ -1,5 +1,5 @@
 ---
-title: Wie richtige Komm
+title: 'Wie richtige Kommunikation deinen Vereinsziele '
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
