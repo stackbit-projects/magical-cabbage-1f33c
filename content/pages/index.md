@@ -336,7 +336,7 @@ sections:
         image: images/hilary-ouse.jpg
         image_position: top
       - title: Freie Formulare
-        subtitle: 'Anmeldungen, Abfragen oder Bestellungen erfassen'
+        subtitle: 'Anmeldungen, oder Bestellungen erfassen'
         title_align: center
         content_align: left
         actions: []
