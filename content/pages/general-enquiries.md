@@ -57,7 +57,7 @@ sections:
           Ich bin damit einverstanden, dass mein Daten für die Beantwortung
           meiner Frage verarbeitet werden und im Anschluss wieder gelöscht wird.
         is_required: true
-    submit_label: Send Message
+    submit_label: Nachricht
     align_vert: top
     padding_top: medium
     padding_bottom: medium
