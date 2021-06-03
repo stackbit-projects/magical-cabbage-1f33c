@@ -177,7 +177,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Einfach einfach!
+      - title: Einfach
         title_align: left
         content: >
           Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
