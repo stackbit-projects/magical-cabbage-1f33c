@@ -2,103 +2,59 @@
 title: About
 sections:
   - type: hero_section
-    title: About
-    subtitle: About Page Demo
+    title: Das sind wir
+    subtitle: Lerne uns kennen
     align: center
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Warum
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Hinter jeder Idee braucht es einen wichtigen Grund. Unser Antrieb bist
+          du mit deinem Verein! Dir deine Vereinsarbeit zu erleichtern, dafür
+          sind wir da!
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: 100 % Leidenschaft
+        subtitle: 'Einfach Lösungen schaffen, die effizient sind!'
+        content: >
+          Vereinsarbeit bedeutet oft Kompromisse einzugehen! Mit der
+          Vereinsverwaltung soll es das nicht geben. Du bekommst einen absoluten
+          Luxuswagen zum smarten Preis, um effizient dein Vereinsleben zu
+          genießen!
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: Von Vereinsmenschen für Vereinsmenschen!
+        subtitle: Wir arbeiten für dich!
+        content: >
+          Wir bieten dir wir eine benutzerfreundliche und intuitive
+          Mitgliederverwaltung, die Spaß macht und mit der du Vereinen voraus
+          bist. 
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: So erreichst du uns
     grid_items:
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+      - title: Support
+        content: |
+          Schönhauser Allee 163
+
+          10435 Berlin
+
+
+          Telefon: +49 30 403 639 730
+
+
+          Mail: support@luckyshot.io
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
     grid_cols: four
