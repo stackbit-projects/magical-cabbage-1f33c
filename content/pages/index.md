@@ -179,10 +179,10 @@ sections:
         image_has_padding: true
       - title: Einfach einfach!
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
+          mit wenigen Klicks dein Ziel erreichst und viel Zeit sparen kannst.
+          Dabei ist uns die Optik und die Handhabung sehr wichtig!
         content_align: left
         actions:
           - label: Learn More
