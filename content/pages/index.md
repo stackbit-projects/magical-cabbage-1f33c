@@ -350,7 +350,7 @@ sections:
         type: grid_item
         image: /images/hilary-ouse.jpg
       - title: Umfragen erstellen
-        subtitle: 'Jederzeit '
+        subtitle: Jederzeit auf dem Laufenden bleiben!
         title_align: left
         content: >-
           ## Lorem ipsum
