@@ -51,9 +51,9 @@ sections:
         image_has_padding: true
       - title: Weiter gedacht!
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: >
+          Du hast was spezielles im Kopf und denkst wir sind die Richtigen? Wir
+          hören gerne zu!
         content_align: center
         actions:
           - label: Get Support
