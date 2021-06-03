@@ -49,7 +49,7 @@ sections:
           - Spezielle Anfrage
       - input_type: textarea
         name: message
-        label: Message
+        label: Deine Nachricht
         default_value: Your message
       - input_type: checkbox
         name: consent
