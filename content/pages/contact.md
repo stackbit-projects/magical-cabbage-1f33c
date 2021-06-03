@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Lass uns sprechen!
     subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      Hast du eine Frage? Sende uns deine Anfrage und melden uns sehr zeitnah
+      bei dir! Wir freuen uns!
     align: center
     padding_top: small
     padding_bottom: small
