@@ -54,8 +54,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Ich bin damit einverstanden, dass mein Daten für die Beantwortung
+          meiner Frage verarbeitet werden und im Anschluss wieder gelöscht wird.
         is_required: true
     submit_label: Send Message
     align_vert: top
