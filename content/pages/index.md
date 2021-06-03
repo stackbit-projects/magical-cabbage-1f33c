@@ -154,7 +154,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Unsere Werte
+    title: Unser Ansatz
     subtitle: Wie wir deine Vereinsarbeit unterstützen!
     grid_items:
       - title: Vereinsmenschen unter sich!
