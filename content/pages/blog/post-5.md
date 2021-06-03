@@ -1,5 +1,5 @@
 ---
-title: Richtige Kommunikation für deinen Vereinserfolg
+title: So kommunizierst du richtig in deinem Verein
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
