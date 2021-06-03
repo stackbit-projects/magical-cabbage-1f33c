@@ -365,7 +365,7 @@ sections:
       Die Vereinsverwaltung die dir in Zukunft wieder mehr Zeit für die
       wichtigen Vereinsaufgaben verschafft!
     actions:
-      - label: Button
+      - label: 'Ja, ich bin dabei!'
         url: /pricing
         style: primary
     actions_position: bottom
