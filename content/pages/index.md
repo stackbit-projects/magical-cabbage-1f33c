@@ -360,7 +360,7 @@ sections:
     has_border: true
     background_color: none
   - type: cta_section
-    title: STARTE JETZT ZEIT ZU SPAREN!
+    title: 'FANG JETZT AN, ZEIT ZU SPAREN!'
     content: >
       Die Vereinsverwaltung die dir in Zukunft wieder mehr Zeit für die
       wichtigen Vereinsaufgaben verschafft!
