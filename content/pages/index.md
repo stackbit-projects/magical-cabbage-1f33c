@@ -309,7 +309,7 @@ sections:
     has_border: true
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: Von Menschen für Menschen
     actions:
       - label: Join the team
         url: /style-guide
