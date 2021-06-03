@@ -316,7 +316,7 @@ sections:
         style: primary
     grid_items:
       - title: Mitgliederübersicht
-        subtitle: Co-Founder & CEO
+        subtitle: 'Eigene Felder, Ansichten und mehr ergänzen'
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
