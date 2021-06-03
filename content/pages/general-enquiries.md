@@ -44,7 +44,7 @@ sections:
         label: Betreff
         default_value: Bitte wähle aus
         options:
-          - Error on the site
+          - Fehler auf der Seite
           - Sponsorship
           - Other
       - input_type: textarea
