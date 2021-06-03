@@ -52,6 +52,7 @@ sections:
         image: /images/terrific-mint.svg
       - image_alt: DatoCMS logo
         image_align: center
+        title: Vereinigung der Sternenfreunde
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
