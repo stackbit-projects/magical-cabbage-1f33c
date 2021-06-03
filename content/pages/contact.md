@@ -16,7 +16,7 @@ sections:
       - title: Partnerschaft und Sposoring
         title_align: center
         content: |
-          Du möchtest mit uns Win-Win Situationen schaffen.
+          Du möchtest mit uns Win-Win Situationen schaffen? Lass uns sprechen!
         content_align: center
         actions:
           - label: Get Support
