@@ -159,10 +159,10 @@ sections:
     grid_items:
       - title: Vereinsmenschen unter sich!
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Wir kennen uns in der Vereinswelt aus. Wir sind selber in der
+          Vereinswelt als Ehrenamtler aktiv und sind mit 100 % Leidenschaft bei
+          der Arbeit für dich im Einsatz!
         content_align: left
         actions:
           - label: Learn More
