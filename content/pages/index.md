@@ -93,10 +93,11 @@ sections:
           Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und
           Beitragsverwaltung steht an erster Stelle.
       - title: Mitgliedsanträge und andere Prozesse abbilden
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Digitalisiere deine Anträge, Formulare und Abfragen und verschaffe dir
+          schnell einen Gesamtüberblick. 
+
+           felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
         actions:
           - label: Learn More
             url: /style-guide
