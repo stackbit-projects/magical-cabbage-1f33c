@@ -102,7 +102,7 @@ sections:
           Bedarf alles in deine Vereinsverwaltung. Das spart Ressourcen, Zeit
           und schon die Umwelt!
         actions:
-          - label: Learn More
+          - label: Erfahre mehr
             url: /style-guide
             style: primary
             has_icon: true
