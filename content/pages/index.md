@@ -308,7 +308,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: campai Team
+    title: Vereinsverwaltung | Anträge | APP
     subtitle: Live Einblicke aus dem Programm
     actions:
       - label: Join the team
