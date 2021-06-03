@@ -154,7 +154,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Cards Grid Section
+    title: Unsere Werte
     subtitle: Wie wir für dich da einsetzen
     grid_items:
       - title: Section Item 1
