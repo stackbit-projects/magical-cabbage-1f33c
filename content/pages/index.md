@@ -108,7 +108,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: 'Erstelle deine Formuler, Abfragen und '
+        subtitle: >-
+          Erstelle deine Formuler, Abfragen und Umfragen nach deinen
+          Vorstellungen
       - title: Eine einfache App für alle Mitglieder
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
