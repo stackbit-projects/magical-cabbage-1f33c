@@ -115,9 +115,7 @@ sections:
         subtitle: >-
           Erstelle deine Formuler, Abfragen und Umfragen nach deinen
           Vorstellungen
-      - title: >-
-          Präsentiere deinen Verein und spreche alle Mitglieder & Interessenten
-          direkt an!
+      - title: Eine APP für Verein und Mitglieder
         subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
