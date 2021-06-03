@@ -45,6 +45,7 @@ sections:
       - title: Support
         content: |
           Schönhauser Allee 163
+          \<br>
           10435 Berlin
           \<br>
           Telefon: +49 30 403 639 730
