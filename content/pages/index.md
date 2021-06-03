@@ -351,7 +351,7 @@ sections:
         image: /images/hilary-ouse.jpg
       - title: Umfragen erstellen
         subtitle: Jederzeit auf dem Laufenden bleiben!
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
