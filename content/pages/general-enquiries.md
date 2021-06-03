@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Deine Anfrage
-    subtitle: The optional subtitle
+    subtitle: Wir hören dir genau zu und sind für dich da!
     align: center
     padding_top: medium
     padding_bottom: medium
