@@ -160,9 +160,9 @@ sections:
       - title: Einfach einfach!
         title_align: left
         content: >
-          Wir kennen uns in der Vereinswelt aus. Wir sind selber in der
-          Vereinswelt als Ehrenamtler aktiv und sind mit 100 % Leidenschaft bei
-          der Arbeit für dich im Einsatz!
+          Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
+          mit wenigen Klicks dein Ziel erreichst und viel Zeit sparen kannst.
+          Dabei ist uns die Optik und die Handhabung sehr wichtig!
         content_align: left
         actions:
           - label: Learn More
