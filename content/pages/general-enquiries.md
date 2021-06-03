@@ -9,18 +9,20 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Billing
+    content: >
+      ## Anfragen
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ## Privacy
+      Deine Anfrage wird mit höchster Priorität bearbeitet und an die
+      entsprechenden Stellen weitergeleitet. Du bekommst schnellstmöglich eine
+      Antwort 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      ## Datenschutz
+
+
+      Zum Zweck der Bearbeitung werden wir deine Daten verarbeitung und nach
+      Abschluss der Anfrage wieder löschen. 
     content_align: left
     form_position: right
     form_width: fifty
