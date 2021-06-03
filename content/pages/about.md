@@ -31,10 +31,10 @@ sections:
         media_width: fifty
       - title: Von Vereinsmenschen für Vereinsmenschen!
         subtitle: Wir arbeiten für dich!
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Wir bieten dir wir eine benutzerfreundliche und intuitive
+          Mitgliederverwaltung, die Spaß macht und mit der du Vereinen voraus
+          bist. 
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
