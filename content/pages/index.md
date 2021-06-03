@@ -157,7 +157,7 @@ sections:
     title: Unser Ansatz
     subtitle: Wie wir deine Vereinsarbeit unterstützen!
     grid_items:
-      - title: Vereinsmenschen unter sich!
+      - title: Einfach einfach!
         title_align: left
         content: >
           Wir kennen uns in der Vereinswelt aus. Wir sind selber in der
