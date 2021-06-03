@@ -46,7 +46,7 @@ sections:
         options:
           - Hilfe & Support
           - Partnerschaft und Sponsoring
-          - Other
+          - Spezielle Anfrage
       - input_type: textarea
         name: message
         label: Message
