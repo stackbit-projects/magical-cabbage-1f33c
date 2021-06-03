@@ -37,7 +37,7 @@ sections:
           Du hast Fragen und du benötigst unsere Hilfe? Dann schreibe uns!
         content_align: center
         actions:
-          - label: Get Support
+          - label: Support kontaktieren
             url: /general-enquiries
             style: secondary
             has_icon: true
