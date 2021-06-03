@@ -309,7 +309,7 @@ sections:
     has_border: true
   - type: grid_section
     title: campai Team
-    subtitle: Von Menschen für Menschen
+    subtitle: Live Einblicke aus dem Programm
     actions:
       - label: Join the team
         url: /style-guide
