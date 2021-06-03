@@ -335,7 +335,7 @@ sections:
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
-      - title: lorem-ipsum
+      - title: Freie Formulare
         subtitle: lorem-ipsum
         title_align: center
         content_align: left
