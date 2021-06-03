@@ -160,9 +160,9 @@ sections:
       - title: Zuverlässig
         title_align: left
         content: >
-          Mit einem intuitiven und einfachen Aufbau sorgen wir dafür, dass du
-          mit wenigen Klicks dein Ziel erreichst und viel Zeit sparen kannst.
-          Dabei ist uns die Optik und die Handhabung sehr wichtig!
+          Unser System ist auf dem mordernsten Stand und wird regelmäßig
+          weiterentwickelt. Du kannst uneingeschränkt und 24/7 darauf zugreifen,
+          um deine Vereinsarbeit effizient und schnell zu erledigen.
         content_align: left
         actions:
           - label: Learn More
