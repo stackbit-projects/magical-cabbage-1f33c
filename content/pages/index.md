@@ -311,7 +311,7 @@ sections:
     title: Vereinsverwaltung | Anträge | APP
     subtitle: Live Einblicke aus dem Programm
     actions:
-      - label: Join the team
+      - label: Suche dir deine Paket aus
         url: /style-guide
         style: primary
     grid_items:
