@@ -55,6 +55,7 @@ sections:
         title: Vereinigung der Sternenfreunde
         subtitle: 4000+ Mitglieder
         image: /images/image001.png
+        title_align: center
       - image_alt: Next.js logo
         image_align: center
       - image_alt: Gridsome logo
