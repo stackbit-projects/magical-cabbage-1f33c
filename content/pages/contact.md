@@ -19,7 +19,7 @@ sections:
           Du möchtest mit uns Win-Win Situationen schaffen? Lass uns sprechen!
         content_align: center
         actions:
-          - label: Get Support
+          - label: Anfrage senden
             url: /general-enquiries
             style: link
             has_icon: true
