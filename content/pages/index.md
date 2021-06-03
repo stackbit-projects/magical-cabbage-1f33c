@@ -340,7 +340,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: blog_feed_section
-    title: Neues und Interessantes
+    title: Wissenswertes für deinen Verein
     actions:
       - label: Alle ansehen im Blog
         url: /blog
