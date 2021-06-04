@@ -3,7 +3,7 @@ title: campai - Vereinssoftware die deine Zeit spart!
 sections:
   - type: hero_section
     title: Vereinssoftware für kleine & große Vereine
-    subtitle: "Mitgliederverwaltung, Beitragsverwaltung, Buchhaltung, Mitgliedsanträge,\_ Mitglieder-App und vieles mehr für deinen Verein."
+    subtitle: Cloudbasiert | Umfassend | Einfach
     actions:
       - label: JETZT STARTEN
         url: /pricing
