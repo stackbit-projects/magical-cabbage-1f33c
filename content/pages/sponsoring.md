@@ -140,14 +140,6 @@ sections:
           durch die
 
           Partnerschaft entsteht.
-      - title: Richtet ihr mir auch das Programm auf Anfrage ein?
-        content: >
-          Ja! Wir bieten Vereinen einen Implementierungsservice an.
-
-          Melde dich einfach bei uns und wir machen dir hier ein Angebot, um das
-          Programm
-
-          nach deinen Wünschen einzurichten!
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
