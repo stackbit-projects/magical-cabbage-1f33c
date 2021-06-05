@@ -48,7 +48,7 @@ sections:
         image: /images/Group.svg
       - image_alt: Sanity logo
         image_align: center
-        title: integriertes Online Banking
+        title: Datumseingabefeld
         subtitle: SEPA XML oder direkt Schnittstelle zur Bank
         title_align: center
         image: /images/Group.svg
