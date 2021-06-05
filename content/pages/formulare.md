@@ -102,13 +102,9 @@ sections:
           mach dir dein Leben einfach. 
       - title: Abhängigkeiten erstellen
         content: >
-          Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
-          und Staffelungen. Mit ONE ist das kein Problem. 
-
-
-          Du kannst Beiträge, Verträge oder Spendenbeiträge komplett abbilden
-          und das Programm erstellt den richtigen Beitrag auf Grundlage von
-          Tags, Abteilungen, Alter oder sonstigen Abhänigkeiten. 100 % genau!
+          Deine Formulare bauen aufeinander auf und enthalten abhängige
+          Möglichkeiten. Dann nutze die dynamischen Felder, um Felder
+          einzublenden oder auszublenden.
         actions:
           - label: Jetzt anschauen
             url: /style-guide
