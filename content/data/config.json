@@ -13,12 +13,12 @@
         "primary_nav_links": [
             {
                 "label": "Verwaltung",
-                "url": "/features",
+                "url": "/verwaltung",
                 "style": "link"
             },
             {
                 "label": "Formulare",
-                "url": "#",
+                "url": "formulare",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",

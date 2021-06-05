@@ -2,27 +2,25 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    title: Wähle dein Paket
+    subtitle: Starte jetzt und spare Zeit bei der Vereinsarbeit!
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
-        subtitle: Optional subtitle
+      - title: Einsteiger
+        subtitle: bis 50 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### 0 €
 
-          per month, billed yearly
+          pro Monat
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Mitgliederverwaltung
+          *   Kommunikationstool
         content_align: left
         actions:
           - label: Start with Personal
@@ -30,21 +28,27 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
-        subtitle: Optional subtitle
+      - title: Profi
+        subtitle: für die ersten 100 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### 12 €
 
-          per month, billed yearly
+          pro Monat, 9 Euro pro weitere 100 aktive Mitglieder
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Mitgliedermanagement
+
+          *   Unbegrenzte Beitragsarten anlegen
+
+          *   Unbegrenzte Abrechnungen/ Rechnungserstellungen
+
+          *   Unbegrenzte Kommunikation
+
+          *   Unbegrenzte Benutzer erstellen
+
+          *   Unbegrenztes Datenvolumen
         content_align: left
         actions:
           - label: Start with Premium
@@ -52,21 +56,20 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
-        subtitle: Optional subtitle
+      - title: Experte
+        subtitle: für die ersten 100 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### 24 €
 
-          per month, billed yearly
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   alles von Profi
+          *   integrierte Buchhaltung
+          *   automatische Zahlungsverbuchung im System
+          *   integriertes Online Banking
         content_align: left
         actions:
           - label: Start with Business
@@ -83,36 +86,64 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: 'Du fragst, wir antworten!'
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: Habe ich dann Zugriff auch vom Handy?
+        content: |
+          Ja! Du kannst mit ONE von allen Endgeräten zugreifen und von
+          überall arbeiten. 
       - title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-      - title: Viverra nam libero justo laoreet sit?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Ja! Du hast die Möglichkeit andere Programm mit unserem System
+
+          zu Verknüpfen. Dafür stellen wir dir eine API Schnittstelle zur
+          Verfügung. 
+      - title: Wie lange sind die Kündigungsfristen?
+        content: >
+          Die Kündigungsfristen sind monatlich. Wir möchten nur
+
+          zufriedene Kunden und deshalb kannst du bei uns jederzeit kündigen,
+          wenn du mit
+
+          uns nicht mehr zufrieden bist.
+      - title: Entstehen zusätzliche Kosten?
+        content: >
+          Jaein! Grundsätzlich ist unser Preis ein All-Inklusiv Preis.
+
+          Nur bei der Nutzung des automatischen Briefversand entstehen
+          zusätzliche
+
+          Kosten, weil wir hier mit einem Dienstleister zusammenarbeiten. Die
+          Kosten
+
+          geben wir 1:1 ohne Aufpreis weiter.
+      - title: Richtet ihr mir auch das Programm auf Anfrage ein?
+        content: >
+          Ja! Wir bieten Vereinen einen Implementierungsservice an.
+
+          Melde dich einfach bei uns und wir machen dir hier ein Angebot, um das
+          Programm
+
+          nach deinen Wünschen einzurichten!
+      - title: Bekomme ich besondere Kondition als großer Verein?
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        content: >
+          Ja! Je mehr Mitglieder du hast, umso günstiger wird der
+
+          Preis pro Mitglied. So können wir sicherstellen, dass du als großer
+          Verein günstigere
+
+          Konditionen erhältst.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
