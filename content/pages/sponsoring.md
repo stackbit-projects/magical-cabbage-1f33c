@@ -115,7 +115,7 @@ sections:
   - type: grid_section
     title: 'Du fragst, wir antworten!'
     grid_items:
-      - title: Habe ich dann Zugriff auch vom Handy?
+      - title: Wie lange dauert die Prüfung und Rückmeldung?x
         content: |
           Ja! Du kannst mit ONE von allen Endgeräten zugreifen und von
           überall arbeiten. 
