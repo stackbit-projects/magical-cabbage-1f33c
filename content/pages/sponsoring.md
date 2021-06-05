@@ -29,7 +29,32 @@ sections:
       - title: Prüfungsphase
         subtitle: Wir prüfen deine Unterlagen
         title_align: left
-        content: "### \\*\\*\\* ###\_\n\n24 €\n\npro Monat, 12 Euro pro weitere 100 Mitglieder\n\n*   alles von Profi\n\n*   integrierte Buchhaltung\n\n*   automatische Zahlungsverbuchung im System\n\n*   integriertes Online Banking\n\n24 €\n\npro Monat, 12 Euro pro weitere 100 Mitglieder\n\n*   alles von Profi\n\n*   integrierte Buchhaltung\n\n*   automatische Zahlungsverbuchung im System\n\n*   integriertes Online Banking\n"
+        content: |
+          ###
+
+          24 €
+
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
+
+          *   alles von Profi
+
+          *   integrierte Buchhaltung
+
+          *   automatische Zahlungsverbuchung im System
+
+          *   integriertes Online Banking
+
+          24 €
+
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
+
+          *   alles von Profi
+
+          *   integrierte Buchhaltung
+
+          *   automatische Zahlungsverbuchung im System
+
+          *   integriertes Online Banking
         content_align: left
         actions: []
         actions_align: left
