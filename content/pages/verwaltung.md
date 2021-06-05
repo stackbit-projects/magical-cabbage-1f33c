@@ -1,5 +1,4 @@
 ---
-title: campai - Vereinssoftware die deine Zeit spart!
 sections:
   - type: hero_section
     title: Vereinssoftware für kleine & große Vereine
