@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Einsteiger
-        subtitle: Optional subtitle
+        subtitle: bis 50 Mitglieder
         title_align: left
         content: |-
           ---
