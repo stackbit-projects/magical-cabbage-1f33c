@@ -39,7 +39,7 @@ sections:
         title: Beitragsabrechnungen
         subtitle: 'komplizierte Strukturen 1:1 abbilen'
         title_align: center
-        image: /images/SC-Paderborn-07.svg
+        image: /images/Group.svg
       - image_alt: Gatsby logo
         image_align: center
         title: Rechungsstellung
