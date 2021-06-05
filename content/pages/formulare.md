@@ -37,7 +37,7 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         title: Texteingabefeld
-        subtitle: 'komplizierte Strukturen 1:1 abbilen'
+        subtitle: Eingabe von individuellen Werten
         title_align: center
         image: /images/Group.svg
       - image_alt: Gatsby logo
