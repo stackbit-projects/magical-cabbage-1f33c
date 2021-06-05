@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Bewerberphase
-        subtitle: bis 50 Mitglieder
+        subtitle: Reiche deine Unterlagen ein
         title_align: left
         content: |
           ***
