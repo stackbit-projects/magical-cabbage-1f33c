@@ -24,7 +24,7 @@ sections:
       Endlich wieder mehr Zeit für die wichtigen Vereinsaufgaben haben!
   - type: grid_section
     title: Unsere Kunden
-    subtitle: Vereine sind überzeugt
+    subtitle: Funktionen in der Übersicht
     align: center
     grid_items:
       - image_alt: Contentful logo
