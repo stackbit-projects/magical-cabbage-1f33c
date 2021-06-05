@@ -54,7 +54,7 @@ sections:
         image: /images/Group.svg
       - image_alt: DatoCMS logo
         image_align: center
-        title: Mitgliederkommunikation
+        title: Auswahlfeld
         subtitle: optisch ansprechende Kommunikation
         image: /images/Group.svg
         title_align: center
