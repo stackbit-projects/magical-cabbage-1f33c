@@ -43,7 +43,7 @@ sections:
       - image_alt: Gatsby logo
         image_align: center
         title: Rechungsstellung
-        subtitle: 1700+ Mitglieder
+        subtitle: Individuelle Rechnungsvorlagen erstellen
         title_align: center
         image: /images/Rostock-Seawolves.svg
       - image_alt: Sanity logo
