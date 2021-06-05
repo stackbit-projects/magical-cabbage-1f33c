@@ -76,7 +76,7 @@ sections:
     title: Vereinssoftware ohne Kompromisse
     subtitle: 'Highlights, die du nicht verpassen solltest!'
     features:
-      - title: Vereinsverwaltung mit Leichtigkeit
+      - title: Mitgliedermanagement
         subtitle: >-
           Modernes Design und angenehmes Handling sorgen für ein maximales
           Vergnügen.
