@@ -112,10 +112,13 @@ sections:
           eget magna fermentum iaculis. Amet est placerat in egestas erat
           imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
       - title: Richtet ihr mir auch das Programm auf Anfrage ein?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Ja! Wir bieten Vereinen einen Implementierungsservice an.
+
+          Melde dich einfach bei uns und wir machen dir hier ein Angebot, um das
+          Programm
+
+          nach deinen Wünschen einzurichten!
       - title: Bekomme ich besondere Kondition als großer Verein?
         title_align: left
         content_align: left
