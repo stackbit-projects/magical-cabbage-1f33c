@@ -28,7 +28,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Profi
+      - title: Prüfungsphase
         subtitle: für die ersten 100 Mitglieder
         title_align: left
         content: |
