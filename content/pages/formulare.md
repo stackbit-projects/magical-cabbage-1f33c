@@ -69,6 +69,7 @@ sections:
         title: Farbfeld
         subtitle: Nutzen von Farbfeldern im Formularen
         title_align: center
+        image: /images/Group.svg
       - image_alt: Git logo
         image_align: center
         title: Datei Upload
