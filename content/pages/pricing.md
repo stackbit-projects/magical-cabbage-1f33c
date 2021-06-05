@@ -89,10 +89,9 @@ sections:
     title: 'Du fragst, wir antworten!'
     grid_items:
       - title: Habe ich dann Zugriff auch vom Handy?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Ja! Du kannst mit ONE von allen Endgeräten zugreifen und von
+          überall arbeiten. 
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
