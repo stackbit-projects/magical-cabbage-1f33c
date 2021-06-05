@@ -141,7 +141,7 @@ sections:
   - type: cta_section
     title: Starte mit der kostenfreien Einsteigermethode
     content: |
-      begrenzte Aktion für deinen Verein! Sei dabei!
+      Melde dich jetzt an und sei dabei!
     actions:
       - label: JETZT STARTEN
         url: /features
