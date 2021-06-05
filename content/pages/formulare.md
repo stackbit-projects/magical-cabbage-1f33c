@@ -24,7 +24,7 @@ sections:
     subtitle: 'Mitgliedsanträge, Spendenformulare Umfragen und mehr'
   - type: grid_section
     title: Funktionsübersicht
-    subtitle: Funktionen in der Übersicht
+    subtitle: Elemente des Formbuilders
     align: center
     grid_items:
       - image_alt: Contentful logo
