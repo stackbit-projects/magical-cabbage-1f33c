@@ -120,7 +120,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: 'Bilde schwierige Beitragsstrukturen 1:1 ab und erspare dir Kompromisse'
+        subtitle: Erstelle
       - title: Zeitgemäße Kommunikation
         subtitle: >-
           Gestalte deine Newsletter wie die Profis und erreiche höhe
