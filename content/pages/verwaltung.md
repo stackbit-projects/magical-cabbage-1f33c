@@ -77,9 +77,7 @@ sections:
     subtitle: 'Highlights, die du nicht verpassen solltest!'
     features:
       - title: Mitgliedermanagement
-        subtitle: >-
-          Modernes Design und angenehmes Handling sorgen für ein maximales
-          Vergnügen.
+        subtitle: Abweichende Zahler erstellen
         actions:
           - label: Zur Verwaltung
             url: /style-guide
