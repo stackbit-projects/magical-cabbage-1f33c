@@ -82,7 +82,7 @@ sections:
     has_border: true
   - type: features_section
     title: Vereinssoftware ohne Kompromisse
-    subtitle: 'Highlights, die du nicht verpassen solltest!'
+    subtitle: Was den Formbuilder so besonders macht!
     features:
       - title: Mitgliedermanagement
         subtitle: 'Komplettes Verwaltungstool, welches dir alle Möglichkeiten bietet.'
