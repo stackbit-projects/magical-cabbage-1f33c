@@ -33,7 +33,7 @@ sections:
         subtitle: Bearbeitung direkt auf der Oberfläche
         image_width: twenty-five
         title_align: center
-        image: /images/groovy-maple.svg
+        image: /images/Group.svg
       - image_alt: Netlify logo
         image_align: center
         title: Beitragsabrechnungen
