@@ -98,11 +98,8 @@ sections:
         media_position: right
         media_width: fifty
         content: >
-          Du möchtest, dass bestimmte Felder nur erscheinen, wenn vorher
-          bestimmte Einstellungen zutreffen. 
-
-
-          Nutze den Formbuilder, um dir deine Vereinsformulare zu erstellen
+          Nutze bestehende und funktionierende Vorlagen für deinen Vereine und
+          mach dir dein Leben einfach. 
       - title: Abhängigkeiten erstellen
         content: >
           Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
