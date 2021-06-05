@@ -23,7 +23,7 @@ sections:
           *   Kommunikationstool
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Einsteiger Paket buchen
             url: /features
             style: primary
         actions_align: left
