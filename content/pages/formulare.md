@@ -70,6 +70,7 @@ sections:
       - image_alt: Git logo
         image_align: center
         title: Datei Upload
+        subtitle: Individuelles Hochladen von Dateien
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
