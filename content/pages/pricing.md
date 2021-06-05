@@ -116,7 +116,7 @@ sections:
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
-      - title: lorem-ipsum
+      - title: 'Bekomme ich '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
