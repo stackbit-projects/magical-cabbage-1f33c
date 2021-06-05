@@ -23,7 +23,7 @@ sections:
     content: |
       Endlich wieder mehr Zeit für die wichtigen Vereinsaufgaben haben!
   - type: grid_section
-    title: Unsere Kunden
+    title: Funktionsübersicht
     subtitle: Funktionen in der Übersicht
     align: center
     grid_items:
