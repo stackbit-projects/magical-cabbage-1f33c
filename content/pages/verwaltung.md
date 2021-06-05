@@ -62,6 +62,7 @@ sections:
         image_align: center
         title: komplette Buchhaltung
         subtitle: EÜR oder Bilanzen erstellen
+        title_align: center
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
