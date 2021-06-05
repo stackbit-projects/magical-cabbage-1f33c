@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Profi
-        subtitle: Optional subtitle
+        subtitle: für die ersten 100 Mitglieder
         title_align: left
         content: |-
           ---
