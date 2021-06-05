@@ -51,7 +51,7 @@ sections:
         title: integriertes Online Banking
         subtitle: SEPA XML oder direkt Schnittstelle zur Bank
         title_align: center
-        image: /images/terrific-mint.svg
+        image: /images/Group.svg
       - image_alt: DatoCMS logo
         image_align: center
         title: Mitgliederkommunikation
