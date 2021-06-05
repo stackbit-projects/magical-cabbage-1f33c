@@ -59,18 +59,17 @@ sections:
       - title: Experte
         subtitle: für die ersten 100 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
           ### $39
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   alles von Profi
+          *   integrierte Buchhaltung
+          *   automatische Zahlungsverbuchung im System
+          *   integriertes Online Banking
         content_align: left
         actions:
           - label: Start with Business
