@@ -61,7 +61,7 @@ sections:
       - image_alt: Next.js logo
         image_align: center
         title: komplette Buchhaltung
-        subtitle: EÜR oder Bilanzen erstellen
+        subtitle: Zahlungen importieren & EÜR oder Bilanzen erstellen
         title_align: center
       - image_alt: Gridsome logo
         image_align: center
