@@ -36,13 +36,13 @@ sections:
 
           ### $19
 
-          per month, billed yearly
+          pro Monat, 9 Euro pro weitere 100 aktive Mitglieder
 
           *   Mitgliedermanagement
 
           *   Unbegrenzte Beitragsarten anlegen
 
-          *   Unbegrenzte Abrechnungen/Rechnungserstellungen
+          *   Unbegrenzte Abrechnungen/ Rechnungserstellungen
 
           *   Unbegrenzte Kommunikation
 
