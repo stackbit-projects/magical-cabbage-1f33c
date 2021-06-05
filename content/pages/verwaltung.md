@@ -48,7 +48,7 @@ sections:
         image: /images/Rostock-Seawolves.svg
       - image_alt: Sanity logo
         image_align: center
-        title: Deutscher Forstverein
+        title: Abweichende Kontakte & Zahler
         subtitle: 7000+ Mitglieder
         title_align: center
         image: /images/terrific-mint.svg
