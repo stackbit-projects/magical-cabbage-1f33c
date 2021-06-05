@@ -145,6 +145,21 @@ sections:
     align: center
     background_color: secondary
     has_border: true
+  - type: cta_section
+    title: Starte JETZT und spare viel Zeit bei der Vereinsarbeit!
+    content: |
+      EINFACH | ZUVERLÄSSIG | SCHNELL 
+    actions:
+      - label: JETZT STARTEN
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    has_border: true
   - type: grid_section
     title: Kunden Feedbacks
     subtitle: Warum du dabei sein solltest!
@@ -212,21 +227,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-    has_border: true
-  - type: cta_section
-    title: Starte JETZT und spare viel Zeit bei der Vereinsarbeit!
-    content: |
-      EINFACH | ZUVERLÄSSIG | SCHNELL 
-    actions:
-      - label: JETZT STARTEN
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
     has_border: true
   - type: grid_section
     title: Vereinsverwaltung | Anträge | APP
