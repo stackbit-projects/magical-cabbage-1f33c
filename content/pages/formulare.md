@@ -68,6 +68,7 @@ sections:
         image_align: center
         title: Farbfeld
         subtitle: Nutzen von Farbfeldern im Formularen
+        title_align: center
       - image_alt: Git logo
         image_align: center
         title: Datei Upload
