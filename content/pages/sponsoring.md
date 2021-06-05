@@ -128,12 +128,10 @@ sections:
           schauen uns jede Bewerbung individuell an und bewerten im Einzelfall.
       - title: Wie lange soll ein Sponsorenvertrag laufen?
         content: >
-          Die Kündigungsfristen sind monatlich. Wir möchten nur
+          Grundsätzlich möchten wir langfristige Zusammenarbeiten pflegen.
 
-          zufriedene Kunden und deshalb kannst du bei uns jederzeit kündigen,
-          wenn du mit
-
-          uns nicht mehr zufrieden bist.
+          Wir prüfen auch hier die Gemeinsamkeiten und besprechen dann die
+          Details im Gespräch.
       - title: Entstehen zusätzliche Kosten?
         content: >
           Jaein! Grundsätzlich ist unser Preis ein All-Inklusiv Preis.
