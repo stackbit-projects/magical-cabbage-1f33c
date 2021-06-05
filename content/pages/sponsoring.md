@@ -126,7 +126,7 @@ sections:
         content: |
           Das hängt von der Absprache und den gemeinsamen Nutzen ab. Wir
           schauen uns jede Bewerbung individuell an und bewerten im Einzelfall.
-      - title: Wie lange sind die Kündigungsfristen?
+      - title: Wie lange soll ein Sponsorenvertrag laufen?
         content: >
           Die Kündigungsfristen sind monatlich. Wir möchten nur
 
