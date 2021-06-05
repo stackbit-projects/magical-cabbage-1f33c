@@ -84,7 +84,7 @@ sections:
     title: Vereinssoftware ohne Kompromisse
     subtitle: Was den Formbuilder so besonders macht!
     features:
-      - title: Mitgliedermanagement
+      - title: Abhängigkeiten erstellen
         subtitle: 'Komplettes Verwaltungstool, welches dir alle Möglichkeiten bietet.'
         actions:
           - label: Jetzt anschauen
