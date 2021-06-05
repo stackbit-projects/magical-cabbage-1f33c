@@ -146,7 +146,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Starte JETZT und spare viel Zeit bei der Vereinsarbeit!
+    title: Bis 30.07. kostenfrei starten und ab 01.08.21 bezahlen!
     content: |
       EINFACH | ZUVERLÄSSIG | SCHNELL 
     actions:
