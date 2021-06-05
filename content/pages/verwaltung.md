@@ -37,7 +37,7 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         title: Beitragsabrechnungen
-        subtitle: 9000+ Mitglieder
+        subtitle: 'komplizierte Strukturen 1:1 abbilen'
         title_align: center
         image: /images/SC-Paderborn-07.svg
       - image_alt: Gatsby logo
