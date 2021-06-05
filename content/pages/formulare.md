@@ -81,7 +81,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
   - type: features_section
-    title: Formulare ohne Kompromisse
+    title: Formulare erstellen mit wenigen Klicks
     subtitle: Was den Formbuilder so besonders macht!
     features:
       - title: Bestehende Vorlagen für deinen Verein nutzen
