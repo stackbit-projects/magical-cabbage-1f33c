@@ -31,18 +31,74 @@ sections:
       - title: Profi
         subtitle: für die ersten 100 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
           ### $19
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Mitgliedermanagement
+
+          *   Unbegrenzte Beitragsarten anlegen
+
+          *   Unbegrenzte Abrechnungen/Rechnungserstellungen
+
+          *   Unbegrenzte Kommunikation
+
+          *   Unbegrenzte Benutzer erstellen
+
+          *   Unbegrenztes Datenvolumen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Mitgliedermanagement
+
+          Unbegrenzte Beitragsarten anlegen
+
+          Unbegrenzte Abrechnungen/Rechnungserstellungen
+
+          Unbegrenzte Kommunikation
+
+          Unbegrenzte Benutzer erstellen
+
+          Unbegrenztes Datenvolumen
         content_align: left
         actions:
           - label: Start with Premium
