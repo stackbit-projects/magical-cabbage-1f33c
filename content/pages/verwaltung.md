@@ -55,7 +55,7 @@ sections:
       - image_alt: DatoCMS logo
         image_align: center
         title: Mitgliederkommunikation
-        subtitle: 4000+ Mitglieder
+        subtitle: 'ansprechende Newsletter, Briefe u'
         image: /images/image001.png
         title_align: center
       - image_alt: Next.js logo
