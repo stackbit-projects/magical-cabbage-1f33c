@@ -49,7 +49,7 @@ sections:
       - image_alt: Sanity logo
         image_align: center
         title: Datumseingabefeld
-        subtitle: SEPA XML oder direkt Schnittstelle zur Bank
+        subtitle: Erstellen von Datumsfelder
         title_align: center
         image: /images/Group.svg
       - image_alt: DatoCMS logo
