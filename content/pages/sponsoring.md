@@ -31,30 +31,6 @@ sections:
         title_align: left
         content: |
           ###
-
-          24 €
-
-          pro Monat, 12 Euro pro weitere 100 Mitglieder
-
-          *   alles von Profi
-
-          *   integrierte Buchhaltung
-
-          *   automatische Zahlungsverbuchung im System
-
-          *   integriertes Online Banking
-
-          24 €
-
-          pro Monat, 12 Euro pro weitere 100 Mitglieder
-
-          *   alles von Profi
-
-          *   integrierte Buchhaltung
-
-          *   automatische Zahlungsverbuchung im System
-
-          *   integriertes Online Banking
         content_align: left
         actions: []
         actions_align: left
