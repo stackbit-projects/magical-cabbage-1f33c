@@ -139,7 +139,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Bis 30.07. kostenfrei starten und ab 01.08.21 bezahlen!
+    title: Starte mit der kostenfreien Einsteigermethode
     content: |
       begrenzte Aktion für deinen Verein! Sei dabei!
     actions:
