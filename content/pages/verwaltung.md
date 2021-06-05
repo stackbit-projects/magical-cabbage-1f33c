@@ -74,7 +74,7 @@ sections:
     has_border: true
   - type: features_section
     title: Alles was dein Verein braucht
-    subtitle: 'Verwalten, Formulare und mehr'
+    subtitle: 'Highlights, die du nicht verpassen solltest!'
     features:
       - title: Vereinsverwaltung mit Leichtigkeit
         subtitle: >-
