@@ -48,7 +48,7 @@ sections:
         image: /images/Rostock-Seawolves.svg
       - image_alt: Sanity logo
         image_align: center
-        title: Online Banking
+        title: integriertes Online Banking
         subtitle: 7000+ Mitglieder
         title_align: center
         image: /images/terrific-mint.svg
