@@ -98,13 +98,13 @@ sections:
           Beitragsverwaltung steht an erster Stelle.
       - title: Beitragsabrechnungen
         content: >
-          Digitalisiere deine Anträge, Formulare und Abfragen und verschaffe dir
-          schnell einen Gesamtüberblick.
+          Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
+          und Staffelungen. Mit ONE ist das kein Problem. 
 
 
-          Erstelle individuelle Vorlagen, Abhängigkeiten und importiere bei
-          Bedarf alles in deine Vereinsverwaltung. Das spart Ressourcen, Zeit
-          und schon die Umwelt!
+          Du kannst Beiträge, Verträge oder Spendenbeiträge komplett abbilden
+          und das Programm erstellt den richtigen Beitrag auf Grundlage von
+          Tags, Abteilungen, Alter oder sonstigen Abhänigkeiten. 100 % genau!
         actions:
           - label: Zu den Formularen
             url: /style-guide
