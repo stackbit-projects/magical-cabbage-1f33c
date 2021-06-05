@@ -3,7 +3,7 @@ title: Sponsoring
 sections:
   - type: hero_section
     title: Hol dir dein Sponsoring
-    subtitle: Starte jetzt und spare Zeit bei der Vereinsarbeit!
+    subtitle: '„GUTES ZU TUN, HEISST NICHT NUR HELFEN, SONDERN AUCH ZURÜCKZUGEBEN.“'
     align: center
     padding_top: large
     padding_bottom: small
