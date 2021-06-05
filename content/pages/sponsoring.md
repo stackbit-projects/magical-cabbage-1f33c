@@ -30,23 +30,7 @@ sections:
         subtitle: Wir prüfen deine Unterlagen
         title_align: left
         content: |
-          ***
-
-          ### 12 €
-
-          pro Monat, 9 Euro pro weitere 100 aktive Mitglieder
-
-          *   Mitgliedermanagement
-
-          *   Unbegrenzte Beitragsarten anlegen
-
-          *   Unbegrenzte Abrechnungen/ Rechnungserstellungen
-
-          *   Unbegrenzte Kommunikation
-
-          *   Unbegrenzte Benutzer erstellen
-
-          *   Unbegrenztes Datenvolumen
+          Wir nehmen uns die Zeit und prüfen deine Bewerbung. 
         content_align: left
         actions: []
         actions_align: left
