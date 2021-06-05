@@ -119,7 +119,9 @@ sections:
         media_width: fifty
         subtitle: 'Bilde schwierige Beitragsstrukturen 1:1 ab und erspare dir Kompromisse'
       - title: Zeitgemäße Kommunikation
-        subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
+        subtitle: >-
+          Gestalte deine Newsletter wie die Profis und erreiche höhe
+          Öffnungsraten
         content: >
           Verschaffe dir einen Vorteil indem du deine Mitglieder über den
           Vereinsmessenger erreichst. 
