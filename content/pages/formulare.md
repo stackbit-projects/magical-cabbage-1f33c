@@ -103,7 +103,7 @@ sections:
 
 
           Nutze den Formbuilder, um dir deine Vereinsformulare zu erstellen
-      - title: Beitragsabrechnungen
+      - title: Abhängigkeiten erstellen
         content: >
           Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
           und Staffelungen. Mit ONE ist das kein Problem. 
