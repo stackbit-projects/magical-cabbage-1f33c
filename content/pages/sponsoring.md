@@ -29,8 +29,9 @@ sections:
       - title: Prüfungsphase
         subtitle: Wir prüfen deine Unterlagen
         title_align: left
-        content: |
-          ###
+        content: >
+          Wir prüfen deine Bewerbung und machen uns ein umfassendes Bild von
+          deiner Organisation.
         content_align: left
         actions: []
         actions_align: left
