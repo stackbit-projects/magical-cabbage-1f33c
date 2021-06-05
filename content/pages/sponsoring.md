@@ -43,8 +43,8 @@ sections:
           ###
 
 
-          Sobald wir deine Bewerbung bewertet haben, werden wir uns mit dir in
-          Verbindung setzen. 
+          Sobald wir deine Bewerbung geprüft haben, werden wir uns mit dir in
+          Verbindung setzen.
         content_align: left
         actions: []
         actions_align: left
