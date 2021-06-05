@@ -21,6 +21,7 @@ sections:
     has_border: true
     content: |
       Endlich wieder mehr Zeit für die wichtigen Vereinsaufgaben haben!
+    subtitle: 'Mitgliedsanträge, Formulare, Spenden'
   - type: grid_section
     title: Funktionsübersicht
     subtitle: Funktionen in der Übersicht
