@@ -30,7 +30,7 @@ sections:
       - image_alt: Contentful logo
         image_align: center
         title: Mitgliedermanagement
-        subtitle: 2000+ Mitglieder
+        subtitle: Bearbeitung direkt auf der Oberfläche
         image_width: twenty-five
         title_align: center
         image: /images/groovy-maple.svg
