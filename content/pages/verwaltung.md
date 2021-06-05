@@ -63,6 +63,7 @@ sections:
         title: komplette Buchhaltung
         subtitle: Zahlungen importieren & EÜR oder Bilanzen erstellen
         title_align: center
+        image: /images/Group.svg
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
