@@ -12,17 +12,15 @@ sections:
       - title: Einsteiger
         subtitle: bis 50 Mitglieder
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### 0 €
 
-          per month, billed yearly
+          pro Monat
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Mitgliederverwaltung
+          *   Kommunikationstool
         content_align: left
         actions:
           - label: Start with Personal
