@@ -2,7 +2,7 @@
 title: Verwaltung
 sections:
   - type: hero_section
-    title: Vereinssoftware für kleine & große Vereine
+    title: 'Mitgliedsanträge, Formulare und Umfragen erstellen'
     subtitle: Cloudbasiert | Umfassend | Einfach
     actions:
       - label: JETZT STARTEN
