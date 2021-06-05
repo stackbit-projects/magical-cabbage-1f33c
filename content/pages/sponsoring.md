@@ -2,7 +2,7 @@
 title: Sponsoring
 sections:
   - type: hero_section
-    title: Wähle dein Paket
+    title: Hol dir dein Sponsoring
     subtitle: Starte jetzt und spare Zeit bei der Vereinsarbeit!
     align: center
     padding_top: large
