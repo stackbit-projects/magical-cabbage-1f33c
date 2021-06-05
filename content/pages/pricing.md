@@ -129,12 +129,12 @@ sections:
         image_has_padding: false
         type: grid_item
         content: >
-          Ja, je mehr Mitglieder du hast, umso günstiger wird der
+          Ja! Je mehr Mitglieder du hast, umso günstiger wird der
 
           Preis pro Mitglied. So können wir sicherstellen, dass du als großer
           Verein günstigere
 
-          Konditionen erhältst. 
+          Konditionen erhältst.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
