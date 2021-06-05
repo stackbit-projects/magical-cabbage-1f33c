@@ -29,7 +29,7 @@ sections:
     grid_items:
       - image_alt: Contentful logo
         image_align: center
-        title: Mitgliedermanagement
+        title: D
         subtitle: Bearbeitung direkt auf der Oberfläche
         image_width: twenty-five
         title_align: center
