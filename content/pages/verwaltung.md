@@ -60,6 +60,7 @@ sections:
         title_align: center
       - image_alt: Next.js logo
         image_align: center
+        title: komplette Buchhaltung
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
