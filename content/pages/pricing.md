@@ -72,7 +72,7 @@ sections:
           *   integriertes Online Banking
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Expert Paket buchen
             url: /features
             style: primary
         actions_align: left
