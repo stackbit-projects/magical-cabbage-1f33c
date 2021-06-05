@@ -118,7 +118,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: 'Bilde schwierige Beitragsstrukturen 1:1 ab und erspare dir Kompromisse'
-      - title: Eine APP für Verein und Mitglieder
+      - title: Zeitgemäße Kommunikation
         subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
         content: >
           Verschaffe dir einen Vorteil indem du deine Mitglieder über den
