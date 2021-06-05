@@ -36,7 +36,7 @@ sections:
         image: /images/groovy-maple.svg
       - image_alt: Netlify logo
         image_align: center
-        title: SC Paderborn 07
+        title: Beitragsabrechnungen
         subtitle: 9000+ Mitglieder
         title_align: center
         image: /images/SC-Paderborn-07.svg
