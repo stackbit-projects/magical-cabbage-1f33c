@@ -49,7 +49,7 @@ sections:
       - image_alt: Sanity logo
         image_align: center
         title: integriertes Online Banking
-        subtitle: 7000+ Mitglieder
+        subtitle: SEPA XML oder direkt Schnittstelle zur Bank
         title_align: center
         image: /images/terrific-mint.svg
       - image_alt: DatoCMS logo
