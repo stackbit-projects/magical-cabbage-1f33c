@@ -116,9 +116,12 @@ sections:
     title: 'Du fragst, wir antworten!'
     grid_items:
       - title: Wie lange dauert die Prüfung und Rückmeldung?x
-        content: |
-          Ja! Du kannst mit ONE von allen Endgeräten zugreifen und von
-          überall arbeiten. 
+        content: >
+          Wir bekommen täglich Anfragen und prüfen sie sorgfältig, deshalb
+          versuchen wir deine Anfrage die nötige Aufmerksamkeit zu geben. Wir
+          machen
+
+          deshalb keine Angaben.
       - title: Sagittis vitae et leo duis ut diam?
         content: >
           Ja! Du hast die Möglichkeit andere Programm mit unserem System
