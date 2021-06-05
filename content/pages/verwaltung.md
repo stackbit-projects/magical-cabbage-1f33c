@@ -79,7 +79,7 @@ sections:
       - title: Mitgliedermanagement
         subtitle: 'Komplettes Verwaltungstool, welches dir alle Möglichkeiten bietet.'
         actions:
-          - label: Zur Verwaltung
+          - label: Jetzt anschauen
             url: /style-guide
             style: primary
             has_icon: true
