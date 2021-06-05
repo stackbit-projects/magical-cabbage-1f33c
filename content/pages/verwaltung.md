@@ -148,7 +148,7 @@ sections:
   - type: cta_section
     title: Bis 30.07. kostenfrei starten und ab 01.08.21 bezahlen!
     content: |
-      EINFACH | ZUVERLÄSSIG | SCHNELL 
+      begrenzte Aktion für deinen Verein! Sei dabei!
     actions:
       - label: JETZT STARTEN
         url: /features
