@@ -107,7 +107,7 @@ sections:
           und das Programm erstellt den richtigen Beitrag auf Grundlage von
           Tags, Abteilungen, Alter oder sonstigen Abhänigkeiten. 100 % genau!
         actions:
-          - label: Zu den Formularen
+          - label: Jetzt anschauen
             url: /style-guide
             style: primary
             has_icon: true
