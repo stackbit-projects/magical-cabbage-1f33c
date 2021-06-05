@@ -86,33 +86,6 @@ sections:
     has_border: false
     background_color: none
   - section_id: lorem-ipsum
-    title: Enterprise
-    subtitle: Spezielle Anfrage
-    title_align: left
-    content: >
-      Dein Verein hat spezielle Anforderungen oder ist über 1000 Mitglieder
-      stark? Dann lass uns gemeinsam deine Anforderungen besprechen. Melde dich
-      gerne bei uns!
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: Jetzt Gespräch vereinbaren
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-  - section_id: lorem-ipsum
     title: Wir unterstützen
     subtitle: campai unterstützt auch dich!
     actions: []
