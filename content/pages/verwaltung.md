@@ -73,7 +73,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
   - type: features_section
-    title: Alles was dein Verein braucht
+    title: Vereinssoftware ohne Kompromisse
     subtitle: 'Highlights, die du nicht verpassen solltest!'
     features:
       - title: Vereinsverwaltung mit Leichtigkeit
