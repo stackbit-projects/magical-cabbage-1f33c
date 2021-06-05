@@ -84,7 +84,7 @@ sections:
     title: Vereinssoftware ohne Kompromisse
     subtitle: Was den Formbuilder so besonders macht!
     features:
-      - title: Abhängigkeiten erstellen
+      - title: Vorhandene Vorlagen nutzen
         subtitle: Erstelle Formulare und Umfragen in Abhängigkeit der Einträge!
         actions:
           - label: Jetzt anschauen
