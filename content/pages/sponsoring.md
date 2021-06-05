@@ -68,10 +68,7 @@ sections:
           *   automatische Zahlungsverbuchung im System
           *   integriertes Online Banking
         content_align: left
-        actions:
-          - label: Expert Paket buchen
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
