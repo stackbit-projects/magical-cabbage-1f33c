@@ -67,6 +67,7 @@ sections:
       - image_alt: Gridsome logo
         image_align: center
         title: Farbfeld
+        subtitle: 'Nutzen von Farbfeldern '
       - image_alt: Git logo
         image_align: center
         title: Datei Upload
