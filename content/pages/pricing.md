@@ -93,10 +93,11 @@ sections:
           Ja! Du kannst mit ONE von allen Endgeräten zugreifen und von
           überall arbeiten. 
       - title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Ja! Du hast die Möglichkeit andere Programm mit unserem System
+
+          zu Verknüpfen. Dafür stellen wir dir eine API Schnittstelle zur
+          Verfügung. 
       - title: Wie lange sind die Kündigungsfristen?
         content: >
           Die Kündigungsfristen sind monatlich. Wir möchten nur
