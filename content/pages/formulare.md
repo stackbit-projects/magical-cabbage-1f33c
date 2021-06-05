@@ -2,7 +2,7 @@
 title: Verwaltung
 sections:
   - type: hero_section
-    title: Erstelle Vereinsbezogene Formulare
+    title: Erstelle aufregende Formulare mit wenigen Klicks!
     actions:
       - label: JETZT STARTEN
         url: /pricing
