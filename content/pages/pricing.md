@@ -99,12 +99,13 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
       - title: Wie lange sind die Kündigungsfristen?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Die Kündigungsfristen sind monatlich. Wir möchten nur
+
+          zufriedene Kunden und deshalb kannst du bei uns jederzeit kündigen,
+          wenn du mit
+
+          uns nicht mehr zufrieden bist.
       - title: Entstehen zusätzliche Kosten?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
