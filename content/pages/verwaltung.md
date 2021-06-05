@@ -123,13 +123,14 @@ sections:
           Gestalte deine Newsletter wie die Profis und erreiche höhe
           Öffnungsraten
         content: >
-          Verschaffe dir einen Vorteil indem du deine Mitglieder über den
-          Vereinsmessenger erreichst. 
+          Versende Newsletter, Mailings, SMS oder Briefe nach dem neuesten
+          Möglichkeiten. Erstelle Graphiken, Codes oder Buttons und begeistere
+          deine Empfänger. 
 
 
-          Erleichtere dir die Arbeit, durch ein integriertes online
-          Mitgliederportal, um Vereinsangebote zu präsentieren oder
-          Adressänderungen selber durchführen zu lassen. 
+          Nutze die Möglichkeit des automatischen Briefversand, um dir wertvolle
+          Arbeit zu sparen und schaffe dir so mehr Zeit für die wichtigen
+          Vereinsaufgaben.
         actions:
           - label: Zur Mitgliederapp
             url: /style-guide
