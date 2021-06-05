@@ -98,13 +98,11 @@ sections:
         media_position: right
         media_width: fifty
         content: >
-          Du kannst bequem Mitglieder in allen Dateiformen importieren,
-          Ansichten anpassen oder speichern, um schnell einen Überblick zu
-          erhalten. 
+          Du möchtest, dass bestimmte Felder nur erscheinen, wenn vorher
+          bestimmte Einstellungen zutreffen. 
 
 
-          Bearbeite Datensätze direkt auf der Oberfläche und spare dir wertvolle
-          Klicks und Zeit.
+          Nutze den Formbuilder, um dir deine Vereinsformulare zu erstellen
       - title: Beitragsabrechnungen
         content: >
           Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
