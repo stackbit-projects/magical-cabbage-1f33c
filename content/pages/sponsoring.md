@@ -134,15 +134,12 @@ sections:
           Details im Gespräch.
       - title: Entstehen zusätzliche Kosten?
         content: >
-          Jaein! Grundsätzlich ist unser Preis ein All-Inklusiv Preis.
+          Ja, wir unterstützen alle Vereinsbereiche und stehen dem
 
-          Nur bei der Nutzung des automatischen Briefversand entstehen
-          zusätzliche
+          offen gegenüber. Es geht um die Gemeinsamkeiten und den Mehrwert, der
+          durch die
 
-          Kosten, weil wir hier mit einem Dienstleister zusammenarbeiten. Die
-          Kosten
-
-          geben wir 1:1 ohne Aufpreis weiter.
+          Partnerschaft entsteht.
       - title: Richtet ihr mir auch das Programm auf Anfrage ein?
         content: >
           Ja! Wir bieten Vereinen einen Implementierungsservice an.
