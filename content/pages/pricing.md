@@ -86,7 +86,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: 'Du fragst, wir antworten!'
     grid_items:
       - title: Habe ich dann Zugriff auch vom Handy?
         content: >-
