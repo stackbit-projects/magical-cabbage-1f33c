@@ -60,7 +60,7 @@ sections:
         title_align: center
       - image_alt: Next.js logo
         image_align: center
-        title: komplette Buchhaltung
+        title: Checkbox
         subtitle: Zahlungen importieren & EÜR oder Bilanzen erstellen
         title_align: center
         image: /images/Group.svg
