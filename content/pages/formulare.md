@@ -36,7 +36,7 @@ sections:
         image: /images/Group.svg
       - image_alt: Netlify logo
         image_align: center
-        title: Beitragsabrechnungen
+        title: Texteingabefeld
         subtitle: 'komplizierte Strukturen 1:1 abbilen'
         title_align: center
         image: /images/Group.svg
