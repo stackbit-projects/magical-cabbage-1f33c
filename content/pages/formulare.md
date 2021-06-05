@@ -85,7 +85,7 @@ sections:
     subtitle: Was den Formbuilder so besonders macht!
     features:
       - title: Vorhandene Vorlagen nutzen
-        subtitle: Erstelle Formulare und Umfragen in Abhängigkeit der Einträge!
+        subtitle: Nutze bestehende und funktioniere Vorlagen für deinen Verein
         actions:
           - label: Jetzt anschauen
             url: /style-guide
