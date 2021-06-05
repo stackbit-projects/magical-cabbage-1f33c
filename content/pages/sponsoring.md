@@ -122,7 +122,7 @@ sections:
           machen
 
           deshalb keine Angaben.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: In welcher Höhe vergebt ihr ein Sponsoring?
         content: >
           Ja! Du hast die Möglichkeit andere Programm mit unserem System
 
