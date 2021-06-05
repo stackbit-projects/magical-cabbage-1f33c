@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Wähle dein Paket
-    subtitle: Optional hero section subtitle
+    subtitle: Starte jetzt und spare Zeit bei der Vereinsarbeit!
     align: center
     padding_top: large
     padding_bottom: small
