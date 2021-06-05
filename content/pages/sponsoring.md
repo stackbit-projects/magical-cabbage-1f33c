@@ -153,7 +153,7 @@ sections:
     subtitle: campai unterstützt auch dich!
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Vereinsmusterstadt
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
