@@ -34,7 +34,7 @@ sections:
         content: |
           ***
 
-          ### $19
+          ### 12 €
 
           pro Monat, 9 Euro pro weitere 100 aktive Mitglieder
 
