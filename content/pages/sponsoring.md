@@ -123,11 +123,9 @@ sections:
 
           deshalb keine Angaben.
       - title: In welcher Höhe vergebt ihr ein Sponsoring?
-        content: >
-          Ja! Du hast die Möglichkeit andere Programm mit unserem System
-
-          zu Verknüpfen. Dafür stellen wir dir eine API Schnittstelle zur
-          Verfügung. 
+        content: |
+          Das hängt von der Absprache und den gemeinsamen Nutzen ab. Wir
+          schauen uns jede Bewerbung individuell an und bewerten im Einzelfall.
       - title: Wie lange sind die Kündigungsfristen?
         content: >
           Die Kündigungsfristen sind monatlich. Wir möchten nur
