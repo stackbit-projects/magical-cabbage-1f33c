@@ -49,6 +49,7 @@ sections:
           - Hilfe & Support
           - Partnerschaft und Sponsoring
           - Spezielle Anfrage
+        is_required: true
       - input_type: textarea
         name: message
         label: Deine Nachricht
