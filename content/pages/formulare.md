@@ -71,6 +71,7 @@ sections:
         image_align: center
         title: Datei Upload
         subtitle: Individuelles Hochladen von Dateien
+        title_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
