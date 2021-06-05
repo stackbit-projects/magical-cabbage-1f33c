@@ -141,7 +141,7 @@ sections:
   - type: cta_section
     title: Starte mit wenigen Klicks!
     content: |
-      Melde dich jetzt an und sei dabei!
+      Erstelle in wenigen Minuten deine Vereinsformulare
     actions:
       - label: JETZT STARTEN
         url: /features
