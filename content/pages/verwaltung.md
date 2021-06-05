@@ -61,7 +61,7 @@ sections:
       - image_alt: Next.js logo
         image_align: center
         title: komplette Buchhaltung
-        subtitle: EÜR oder Bi
+        subtitle: EÜR oder Bilanzen erstellen
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
