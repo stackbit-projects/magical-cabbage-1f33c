@@ -49,56 +49,6 @@ sections:
           *   Unbegrenzte Benutzer erstellen
 
           *   Unbegrenztes Datenvolumen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          Mitgliedermanagement
-
-          Unbegrenzte Beitragsarten anlegen
-
-          Unbegrenzte Abrechnungen/Rechnungserstellungen
-
-          Unbegrenzte Kommunikation
-
-          Unbegrenzte Benutzer erstellen
-
-          Unbegrenztes Datenvolumen
         content_align: left
         actions:
           - label: Start with Premium
