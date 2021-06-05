@@ -115,7 +115,7 @@ sections:
   - type: grid_section
     title: 'Du fragst, wir antworten!'
     grid_items:
-      - title: Wie lange dauert die Prüfung und Rückmeldung?x
+      - title: Wie lange dauert die Prüfung und Rückmeldung?
         content: >
           Wir bekommen täglich Anfragen und prüfen sie sorgfältig, deshalb
           versuchen wir deine Anfrage die nötige Aufmerksamkeit zu geben. Wir
