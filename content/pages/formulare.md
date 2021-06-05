@@ -120,7 +120,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: Erstelle
+        subtitle: 'Erstelle Abhängigkeiten, um die richtigen Antworten zu erhalten.'
       - title: Zeitgemäße Kommunikation
         subtitle: >-
           Gestalte deine Newsletter wie die Profis und erreiche höhe
