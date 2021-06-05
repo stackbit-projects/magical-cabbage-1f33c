@@ -154,7 +154,7 @@ sections:
     actions: []
     grid_items:
       - title: Vereinsmusterstadt
-        subtitle: lorem-ipsum
+        subtitle: 'Bereich: Sport'
         title_align: left
         content_align: left
         actions: []
