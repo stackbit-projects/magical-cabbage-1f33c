@@ -120,14 +120,9 @@ sections:
       - title: Komplett Individualisierbar
         subtitle: 'Links, Absätze, Formatierungen und mehr möglich!'
         content: >
-          Versende Newsletter, Mailings, SMS oder Briefe nach dem neuesten
-          Möglichkeiten. Erstelle Graphiken, Codes oder Buttons und begeistere
-          deine Empfänger. 
-
-
-          Nutze die Möglichkeit des automatischen Briefversand, um dir wertvolle
-          Arbeit zu sparen und schaffe dir so mehr Zeit für die wichtigen
-          Vereinsaufgaben.
+          Deine Listen benötigen Beschreibungen, unterschiedliche Größen oder
+          auch andere Schriftformen, dann kannst du dich auf den Formbuilder
+          verlassen.
         actions:
           - label: Jetzt anschauen
             url: /style-guide
