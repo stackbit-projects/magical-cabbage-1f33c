@@ -3,7 +3,6 @@ title: Verwaltung
 sections:
   - type: hero_section
     title: 'Mitgliedsanträge, Formulare und Umfragen erstellen'
-    subtitle: Cloudbasiert | Umfassend | Einfach
     actions:
       - label: JETZT STARTEN
         url: /pricing
