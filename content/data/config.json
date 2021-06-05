@@ -18,7 +18,7 @@
             },
             {
                 "label": "Formulare",
-                "url": "formulare",
+                "url": "/formulare",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -29,7 +29,7 @@
             },
             {
                 "label": "Sponsoring",
-                "url": "sponsoring",
+                "url": "/sponsoring",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
