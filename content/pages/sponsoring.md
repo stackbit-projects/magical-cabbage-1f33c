@@ -18,7 +18,7 @@ sections:
           ### Folgende Unterlagen benötigen wir
 
           *   Bewerbungsanschreiben
-          *   Vereinsunterlagen/Sponsorenmappe
+          *   Vereinsunterlagen/ Sponsorenmappe
         content_align: left
         actions:
           - label: Einsteiger Paket buchen
