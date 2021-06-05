@@ -96,7 +96,7 @@ sections:
 
           Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und
           Beitragsverwaltung steht an erster Stelle.
-      - title: Mitgliedsanträge und andere Prozesse abbilden
+      - title: Beitragsabrechnungen
         content: >
           Digitalisiere deine Anträge, Formulare und Abfragen und verschaffe dir
           schnell einen Gesamtüberblick.
