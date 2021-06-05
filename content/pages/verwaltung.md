@@ -145,11 +145,6 @@ sections:
     align: center
     background_color: secondary
     has_border: true
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: primary
-    has_border: true
   - type: grid_section
     title: Unser Ansatz
     subtitle: Wie wir deine Vereinsarbeit unterstützen!
