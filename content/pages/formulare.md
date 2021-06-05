@@ -84,7 +84,7 @@ sections:
     title: Vereinssoftware ohne Kompromisse
     subtitle: Was den Formbuilder so besonders macht!
     features:
-      - title: Vorhandene Vorlagen nutzen
+      - title: Bestehende Vorlagen für deinen Verein nutzen
         subtitle: Nutze bestehende und funktioniere Vorlagen für deinen Verein
         actions:
           - label: Jetzt anschauen
