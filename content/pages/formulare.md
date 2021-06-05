@@ -19,8 +19,9 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: true
-    content: |
-      Endlich wieder mehr Zeit für die wichtigen Vereinsaufgaben haben!
+    content: >
+      Erstelle Vereinsbezogene Formulare Endlich wieder mehr Zeit für die
+      wichtigen Vereinsaufgaben haben!
     subtitle: 'Mitgliedsanträge, Formulare, Spendenformulare Umfragen und mehr'
   - type: grid_section
     title: Funktionsübersicht
