@@ -107,11 +107,16 @@ sections:
 
           uns nicht mehr zufrieden bist.
       - title: Entstehen zusätzliche Kosten?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Jaein! Grundsätzlich ist unser Preis ein All-Inklusiv Preis.
+
+          Nur bei der Nutzung des automatischen Briefversand entstehen
+          zusätzliche
+
+          Kosten, weil wir hier mit einem Dienstleister zusammenarbeiten. Die
+          Kosten
+
+          geben wir 1:1 ohne Aufpreis weiter.
       - title: Richtet ihr mir auch das Programm auf Anfrage ein?
         content: >
           Ja! Wir bieten Vereinen einen Implementierungsservice an.
