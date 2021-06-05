@@ -30,7 +30,29 @@ sections:
         subtitle: Wir prüfen deine Unterlagen
         title_align: left
         content: |
-          Wir nehmen uns die Zeit und prüfen deine Bewerbung. 
+          ### 24 €
+
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
+
+          *   alles von Profi
+
+          *   integrierte Buchhaltung
+
+          *   automatische Zahlungsverbuchung im System
+
+          *   integriertes Online Banking
+
+          24 €
+
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
+
+          *   alles von Profi
+
+          *   integrierte Buchhaltung
+
+          *   automatische Zahlungsverbuchung im System
+
+          *   integriertes Online Banking
         content_align: left
         actions: []
         actions_align: left
