@@ -90,12 +90,13 @@ sections:
         media_position: right
         media_width: fifty
         content: >
-          Die innovative Oberfläche hilft dabei, alte Denkmuster aufzubrechen
-          und bringt frischen Wind.
+          Du kannst bequem Mitglieder in allen Dateiformen importieren,
+          Ansichten anpassen oder speichern, um schnell einen Überblick zu
+          erhalten. 
 
 
-          Zeit sparen bei der Mitgliederverwaltung, Buchhaltung und
-          Beitragsverwaltung steht an erster Stelle.
+          Bearbeite Datensätze direkt auf der Oberfläche und spare dir wertvolle
+          Klicks und Zeit.
       - title: Beitragsabrechnungen
         content: >
           Dein Verein ist historisch gewachsen und hat komplexe Beitragsarten
