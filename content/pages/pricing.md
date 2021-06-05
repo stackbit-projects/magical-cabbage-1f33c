@@ -62,9 +62,9 @@ sections:
         content: |
           ***
 
-          ### $39
+          ### 24 €
 
-          per month, billed yearly
+          pro Monat, 12 Euro pro weitere 100 Mitglieder
 
           *   alles von Profi
           *   integrierte Buchhaltung
