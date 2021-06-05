@@ -8,7 +8,7 @@ sections:
       - label: JETZT STARTEN
         url: /pricing
         style: secondary
-      - label: Mehr erfahren
+      - label: Rundgang starten
         url: /features
         style: primary
     image: /images/about-4.jpg
