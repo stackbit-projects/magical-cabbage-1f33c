@@ -2,7 +2,7 @@
 title: Verwaltung
 sections:
   - type: hero_section
-    title: Erstelle Formulare mit wenigen Klicks!
+    title: Erstelle Formulare in wenigen Klicks!
     actions:
       - label: JETZT STARTEN
         url: /pricing
