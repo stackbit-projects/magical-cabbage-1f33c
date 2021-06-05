@@ -61,7 +61,7 @@ sections:
       - image_alt: Next.js logo
         image_align: center
         title: Checkbox
-        subtitle: Zahlungen importieren & EÜR oder Bilanzen erstellen
+        subtitle: Erstellen von Bestätigungsfeldern
         title_align: center
         image: /images/Group.svg
       - image_alt: Gridsome logo
