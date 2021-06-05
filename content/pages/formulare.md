@@ -55,7 +55,7 @@ sections:
       - image_alt: DatoCMS logo
         image_align: center
         title: Auswahlfeld
-        subtitle: optisch ansprechende Kommunikation
+        subtitle: Erstellen von Dropdown Menüs
         image: /images/Group.svg
         title_align: center
       - image_alt: Next.js logo
