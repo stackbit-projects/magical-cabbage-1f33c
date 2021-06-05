@@ -66,6 +66,7 @@ sections:
         image: /images/Group.svg
       - image_alt: Gridsome logo
         image_align: center
+        title: Farbefeld
       - image_alt: Git logo
         image_align: center
     grid_cols: four
