@@ -29,7 +29,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Prüfungsphase
-        subtitle: für die ersten 100 Mitglieder
+        subtitle: Wir prüfen deine Unterlagen
         title_align: left
         content: |
           ***
