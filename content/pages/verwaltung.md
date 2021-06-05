@@ -77,7 +77,7 @@ sections:
     subtitle: 'Highlights, die du nicht verpassen solltest!'
     features:
       - title: Mitgliedermanagement
-        subtitle: Abweichende Zahler erstellen
+        subtitle: 'Komplettes Verwaltungstool, welches dir alle Möglichkeiten bietet.'
         actions:
           - label: Zur Verwaltung
             url: /style-guide
