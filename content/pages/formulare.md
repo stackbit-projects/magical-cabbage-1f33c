@@ -42,7 +42,7 @@ sections:
         image: /images/Group.svg
       - image_alt: Gatsby logo
         image_align: center
-        title: Rechungsstellung
+        title: Zahleingabefeld
         subtitle: Individuelle Rechnungsvorlagen erstellen
         title_align: center
         image: /images/Group.svg
