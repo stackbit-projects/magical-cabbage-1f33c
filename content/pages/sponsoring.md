@@ -15,12 +15,10 @@ sections:
         content: |
           ***
 
-          ### 0 €
+          ### Folgende Unterlagen benötigen wir
 
-          pro Monat
-
-          *   Mitgliederverwaltung
-          *   Kommunikationstool
+          *   Bewerbungsanschreiben
+          *   Vereinsunterlagen/Sponsorenmappe
         content_align: left
         actions:
           - label: Einsteiger Paket buchen
