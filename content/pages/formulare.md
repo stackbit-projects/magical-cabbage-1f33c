@@ -2,7 +2,7 @@
 title: Verwaltung
 sections:
   - type: hero_section
-    title: 'Mitgliedsanträge, Formulare und Umfragen erstellen'
+    title: Erstelle Vereinsbezogene Formulare
     actions:
       - label: JETZT STARTEN
         url: /pricing
