@@ -148,25 +148,6 @@ sections:
           Programm
 
           nach deinen Wünschen einzurichten!
-      - title: Bekomme ich besondere Kondition als großer Verein?
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        content: >
-          Ja! Je mehr Mitglieder du hast, umso günstiger wird der
-
-          Preis pro Mitglied. So können wir sicherstellen, dass du als großer
-          Verein günstigere
-
-          Konditionen erhältst.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
