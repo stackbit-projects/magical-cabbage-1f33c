@@ -132,7 +132,7 @@ sections:
 
           Wir prüfen auch hier die Gemeinsamkeiten und besprechen dann die
           Details im Gespräch.
-      - title: Entstehen zusätzliche Kosten?
+      - title: Unterstütz ihr alle Vereinsbereiche?
         content: >
           Ja, wir unterstützen alle Vereinsbereiche und stehen dem
 
