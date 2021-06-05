@@ -150,7 +150,7 @@ sections:
     background_color: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: Vereine die wir unterstützen!
+    subtitle: campai unterstützt auch dich!
     actions: []
     grid_items:
       - title: lorem-ipsum
