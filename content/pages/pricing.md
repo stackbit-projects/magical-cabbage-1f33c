@@ -51,7 +51,7 @@ sections:
           *   Unbegrenztes Datenvolumen
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Profi Paket buchen
             url: /features
             style: primary
         actions_align: left
