@@ -154,7 +154,7 @@ sections:
     background_color: secondary
   - section_id: lorem-ipsum
     title: Enterprise
-    subtitle: lorem-ipsum
+    subtitle: Spezielle Anfrage
     title_align: left
     content: >-
       ## Lorem ipsum
