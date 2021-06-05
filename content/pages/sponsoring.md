@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Einsteiger
+      - title: Bewerberphase
         subtitle: bis 50 Mitglieder
         title_align: left
         content: |
