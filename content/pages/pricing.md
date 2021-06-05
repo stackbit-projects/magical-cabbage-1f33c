@@ -156,17 +156,10 @@ sections:
     title: Enterprise
     subtitle: Spezielle Anfrage
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Dein Verein hat spezielle Anforderungen oder ist über 1000 Mitglieder
+      stark? Dann lass uns gemeinsam deine Anforderungen besprechen. Melde dich
+      gerne bei uns!
     content_align: left
     form_position: bottom
     form_width: fifty
