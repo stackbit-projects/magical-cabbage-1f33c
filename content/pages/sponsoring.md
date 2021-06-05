@@ -57,7 +57,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Auswertungsphase
-        subtitle: für die ersten 100 Mitglieder
+        subtitle: Wir setzen uns mit dir in Verbindung
         title_align: left
         content: |
           ***
