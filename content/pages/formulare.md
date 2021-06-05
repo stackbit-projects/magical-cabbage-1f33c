@@ -223,9 +223,8 @@ sections:
     has_border: true
   - type: cta_section
     title: JETZT STARTEN!
-    content: >
-      Erstelle coole Formulare für deine Vereinsbedürfnisse. Es ist die Zukunft
-      von Formularen erstellen
+    content: |
+      Erstelle coole Formulare für deine Vereinsbedürfnisse.
     actions:
       - label: 'Ja, ich bin dabei!'
         url: /pricing
