@@ -116,9 +116,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: >-
-          Erstelle deine Formuler, Abfragen und Umfragen nach deinen
-          Vorstellungen
+        subtitle: 'Bilde schwierige Beitragsstrukturen 1:1 ab und erspare dir Kompromisse'
       - title: Eine APP für Verein und Mitglieder
         subtitle: Vereinsangebote präsentieren und mit den Mitgliedern interagieren!
         content: >
