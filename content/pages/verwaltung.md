@@ -132,7 +132,7 @@ sections:
           Arbeit zu sparen und schaffe dir so mehr Zeit für die wichtigen
           Vereinsaufgaben.
         actions:
-          - label: Zur Mitgliederapp
+          - label: Jetzt anschauen
             url: /style-guide
             style: primary
             has_icon: true
