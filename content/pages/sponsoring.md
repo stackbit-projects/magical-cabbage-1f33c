@@ -38,17 +38,12 @@ sections:
       - title: Auswertungsphase
         subtitle: Wir setzen uns mit dir in Verbindung
         title_align: left
-        content: |
-          ***
+        content: >
+          ###
 
-          ### 24 €
 
-          pro Monat, 12 Euro pro weitere 100 Mitglieder
-
-          *   alles von Profi
-          *   integrierte Buchhaltung
-          *   automatische Zahlungsverbuchung im System
-          *   integriertes Online Banking
+          Sobald wir deine Bewerbung bewertet haben, werden wir uns mit dir in
+          Verbindung setzen. 
         content_align: left
         actions: []
         actions_align: left
