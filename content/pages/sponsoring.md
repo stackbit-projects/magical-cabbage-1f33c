@@ -21,7 +21,7 @@ sections:
           *   Vereinsunterlagen/ Sponsorenmappe
         content_align: left
         actions:
-          - label: Einsteiger Paket buchen
+          - label: Bewerbung abschicken
             url: /features
             style: primary
         actions_align: left
