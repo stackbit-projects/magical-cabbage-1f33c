@@ -56,7 +56,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Experte
+      - title: Auswertungsphase
         subtitle: für die ersten 100 Mitglieder
         title_align: left
         content: |
