@@ -117,7 +117,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: 'Erstelle Abhängigkeiten, um die richtigen Antworten zu erhalten.'
-      - title: Zeitgemäße Kommunikation
+      - title: Einbindung in die Webseite
         subtitle: >-
           Gestalte deine Newsletter wie die Profis und erreiche höhe
           Öffnungsraten
