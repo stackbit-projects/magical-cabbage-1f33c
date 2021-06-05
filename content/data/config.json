@@ -18,7 +18,7 @@
             },
             {
                 "label": "Formulare",
-                "url": "#",
+                "url": "formulare",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
