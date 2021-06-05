@@ -85,7 +85,7 @@ sections:
     subtitle: Was den Formbuilder so besonders macht!
     features:
       - title: Abhängigkeiten erstellen
-        subtitle: 'Komplettes Verwaltungstool, welches dir alle Möglichkeiten bietet.'
+        subtitle: Erstelle Formulare und Umfragen in Abhängigkeit der Einträge!
         actions:
           - label: Jetzt anschauen
             url: /style-guide
