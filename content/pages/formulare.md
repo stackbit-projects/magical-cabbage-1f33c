@@ -139,7 +139,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Starte mit der kostenfreien Einsteigermethode
+    title: Starte mit wenigen Klicks!
     content: |
       Melde dich jetzt an und sei dabei!
     actions:
