@@ -117,7 +117,6 @@ sections:
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
       - title: Bekomme ich besondere Kondition als großer Verein?
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
