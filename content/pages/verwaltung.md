@@ -54,7 +54,7 @@ sections:
         image: /images/terrific-mint.svg
       - image_alt: DatoCMS logo
         image_align: center
-        title: Vereinigung der Sternenfreunde
+        title: Mitgliederkommunikation
         subtitle: 4000+ Mitglieder
         image: /images/image001.png
         title_align: center
