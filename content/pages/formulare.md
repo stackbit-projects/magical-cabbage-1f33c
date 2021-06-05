@@ -222,7 +222,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: 'FANG JETZT AN, ZEIT ZU SPAREN!'
+    title: JETZT STARTEN!
     content: |
       Erstelle coole Formulare für deine Vereinsbedürfnisse. 
     actions:
