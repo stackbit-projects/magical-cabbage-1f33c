@@ -50,10 +50,7 @@ sections:
 
           *   Unbegrenztes Datenvolumen
         content_align: left
-        actions:
-          - label: Profi Paket buchen
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Auswertungsphase
