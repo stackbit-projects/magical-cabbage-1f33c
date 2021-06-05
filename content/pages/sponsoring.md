@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Sponsoring
 sections:
   - type: hero_section
     title: Wähle dein Paket
