@@ -118,9 +118,7 @@ sections:
         media_width: fifty
         subtitle: 'Erstelle Abhängigkeiten, um die richtigen Antworten zu erhalten.'
       - title: Komplett Individualisierbar
-        subtitle: >-
-          Gestalte deine Newsletter wie die Profis und erreiche höhe
-          Öffnungsraten
+        subtitle: 'Links, Absätze, Formatierungen und mehr möglich!'
         content: >
           Versende Newsletter, Mailings, SMS oder Briefe nach dem neuesten
           Möglichkeiten. Erstelle Graphiken, Codes oder Buttons und begeistere
