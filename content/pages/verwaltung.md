@@ -44,7 +44,7 @@ sections:
         title: Rechungsstellung
         subtitle: Individuelle Rechnungsvorlagen erstellen
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start4.png
       - image_alt: Sanity logo
         image_align: center
         title: integriertes Online Banking
