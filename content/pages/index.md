@@ -318,7 +318,7 @@ sections:
       - title: Mitgliederübersicht
         subtitle: 'Eigene Felder, Ansichten und mehr ergänzen'
         title_align: center
-        image: /images/Screenshots (1).png
+        image: /images/Screenshots_start (1).png
         image_position: top
       - title: Beiträge erstellen
         subtitle: 'komplizierte Beitragsstrukturen 1:1 abbilden'
