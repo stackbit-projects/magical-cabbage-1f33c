@@ -328,7 +328,7 @@ sections:
       - title: Newsletter versenden
         subtitle: Ansprechende Mailings für mehr Klicks
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: /images/Screenshots_start3.png
         image_position: top
       - title: Online Mitgliedsantrag
         subtitle: Familienanträge einfach ausfüllen
