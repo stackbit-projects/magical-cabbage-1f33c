@@ -38,7 +38,7 @@ sections:
         title: Beitragsabrechnungen
         subtitle: 'komplizierte Strukturen 1:1 abbilen'
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start2.png
       - image_alt: Gatsby logo
         image_align: center
         title: Rechungsstellung
