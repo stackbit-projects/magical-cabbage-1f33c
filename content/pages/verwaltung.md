@@ -10,7 +10,7 @@ sections:
       - label: Rundgang starten
         url: /features
         style: primary
-    image: /images/about-4.jpg
+    image: /images/Verwaltung (1).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -32,37 +32,37 @@ sections:
         subtitle: Bearbeitung direkt auf der Oberfläche
         image_width: twenty-five
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start (1).png
       - image_alt: Netlify logo
         image_align: center
         title: Beitragsabrechnungen
         subtitle: 'komplizierte Strukturen 1:1 abbilen'
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start2.png
       - image_alt: Gatsby logo
         image_align: center
         title: Rechungsstellung
         subtitle: Individuelle Rechnungsvorlagen erstellen
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start4.png
       - image_alt: Sanity logo
         image_align: center
         title: integriertes Online Banking
         subtitle: SEPA XML oder direkt Schnittstelle zur Bank
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start5.png
       - image_alt: DatoCMS logo
         image_align: center
         title: Mitgliederkommunikation
         subtitle: optisch ansprechende Kommunikation
-        image: /images/Group.svg
+        image: /images/Screenshots_start3.png
         title_align: center
       - image_alt: Next.js logo
         image_align: center
         title: komplette Buchhaltung
         subtitle: Zahlungen importieren & EÜR oder Bilanzen erstellen
         title_align: center
-        image: /images/Group.svg
+        image: /images/Screenshots_start6.png
       - image_alt: Gridsome logo
         image_align: center
       - image_alt: Git logo
