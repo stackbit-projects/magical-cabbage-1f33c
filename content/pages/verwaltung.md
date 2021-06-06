@@ -10,7 +10,7 @@ sections:
       - label: Rundgang starten
         url: /features
         style: primary
-    image: /images/about-4.jpg
+    image: /images/Verwaltung (1).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
