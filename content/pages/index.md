@@ -323,7 +323,7 @@ sections:
       - title: Beiträge erstellen
         subtitle: 'komplizierte Beitragsstrukturen 1:1 abbilden'
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: /images/Screenshots_start2.png
         image_position: top
       - title: Newsletter versenden
         subtitle: Ansprechende Mailings für mehr Klicks
