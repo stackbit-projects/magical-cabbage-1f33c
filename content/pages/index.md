@@ -318,17 +318,17 @@ sections:
       - title: Mitgliederübersicht
         subtitle: 'Eigene Felder, Ansichten und mehr ergänzen'
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: /images/Screenshots_start (1).png
         image_position: top
       - title: Beiträge erstellen
         subtitle: 'komplizierte Beitragsstrukturen 1:1 abbilden'
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: /images/Screenshots_start2.png
         image_position: top
       - title: Newsletter versenden
         subtitle: Ansprechende Mailings für mehr Klicks
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: /images/Screenshots_start3.png
         image_position: top
       - title: Online Mitgliedsantrag
         subtitle: Familienanträge einfach ausfüllen
