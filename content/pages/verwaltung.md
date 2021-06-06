@@ -55,7 +55,7 @@ sections:
         image_align: center
         title: Mitgliederkommunikation
         subtitle: optisch ansprechende Kommunikation
-        image: /images/Group.svg
+        image: /images/Screenshots_start3.png
         title_align: center
       - image_alt: Next.js logo
         image_align: center
